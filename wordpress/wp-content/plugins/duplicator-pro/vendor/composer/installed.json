@@ -1,0 +1,63 @@
+{
+    "packages": [
+        {
+            "name": "andreamk/jsonserialize",
+            "version": "v1.2.8",
+            "version_normalized": "1.2.8.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/andreamk/JsonSerialize.git",
+                "reference": "874c96841e4abe02e82265fc101c4739f8f77def"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/andreamk/JsonSerialize/zipball/874c96841e4abe02e82265fc101c4739f8f77def",
+                "reference": "874c96841e4abe02e82265fc101c4739f8f77def",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.4"
+            },
+            "require-dev": {
+                "composer/composer": ">=1.5.6 <1.7.0 || ^1.7.1 || ^2.0.0",
+                "mcaskill/composer-exclude-files": "^2.1",
+                "phpstan/extension-installer": "*",
+                "phpstan/phpstan": "*",
+                "phpstan/phpstan-phpunit": "*",
+                "phpunit/phpunit": "^4 || ^6 || ^9",
+                "squizlabs/php_codesniffer": "^3"
+            },
+            "time": "2022-08-03T08:31:53+00:00",
+            "type": "library",
+            "extra": {
+                "exclude-from-files": [
+                    "phpstan/phpstan/bootstrap.php"
+                ]
+            },
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "Amk\\JsonSerialize\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Andrea Leoni",
+                    "email": "a.leoni@amkdeveloper.com"
+                }
+            ],
+            "description": "Library that improves object serialization and deserialization via JSON",
+            "support": {
+                "issues": "https://github.com/andreamk/JsonSerialize/issues",
+                "source": "https://github.com/andreamk/JsonSerialize/tree/v1.2.8"
+            },
+            "install-path": "../andreamk/jsonserialize"
+        }
+    ],
+    "dev": false,
+    "dev-package-names": []
+}

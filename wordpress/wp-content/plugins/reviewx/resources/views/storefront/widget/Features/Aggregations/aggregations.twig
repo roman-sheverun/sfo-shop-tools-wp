@@ -1,0 +1,49 @@
+<style>
+    .rvx-table table tbody > tr:nth-child(odd) > td, table tbody > tr:nth-child(odd) > th {
+        background: none;
+    }
+</style>
+
+
+<table class="rvx-w-full rvx-table !rvx-border-none">
+    <tbody class="">
+    <template x-for="(stat, i) in formatAggregations">
+        <tr class="rvx-aggregation__row !rvx-font-nunito !rvx-border-none !rvx-bg-transparent !rvx-leading-normal">
+            <td class="rvx-text-[14px] rvx-flex rvx-gap-space5 rvx-items-center rvx-align-middle !rvx-p-0 !rvx-pb-space8 !rvx-pr-space8 rvx-aggregation__rating !rvx-bg-transparent !rvx-border-none">
+                <span x-text="stat.rating" class="rvx-text-[14px]  rvx-pt-[2px] rvx-font-nunito rvx-text-neutral-800 rvx-font-semibold"></span>
+                <svg class="rvx-aggregation__rating-icon" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" fill="none">
+                    <mask id="mask0_2499_19750" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="20" height="20">
+                        <rect width="20" height="20" fill="#D9D9D9"/>
+                    </mask>
+                    <g mask="url(#mask0_2499_19750)">
+                        <path d="M9.99909 14.0627L6.58242 16.1043C6.42964 16.1877 6.28034 16.2224 6.13451 16.2085C5.98867 16.1946 5.8602 16.146 5.74909 16.0627C5.63798 15.9793 5.55464 15.8647 5.49909 15.7189C5.44353 15.5731 5.43659 15.4238 5.47826 15.271L6.37409 11.4585L3.35326 8.896C3.22826 8.78488 3.15187 8.65641 3.12409 8.51058C3.09631 8.36475 3.10326 8.22238 3.14492 8.0835C3.18659 7.94461 3.26298 7.83002 3.37409 7.73975C3.4852 7.64947 3.62409 7.59738 3.79076 7.5835L7.74909 7.22933L9.31159 3.60433C9.38103 3.45155 9.47826 3.33697 9.60326 3.26058C9.72826 3.18419 9.8602 3.146 9.99909 3.146C10.138 3.146 10.2699 3.18419 10.3949 3.26058C10.5199 3.33697 10.6171 3.45155 10.6866 3.60433L12.2491 7.25016L16.2074 7.5835C16.3741 7.59738 16.513 7.65294 16.6241 7.75016C16.7352 7.84739 16.8116 7.96544 16.8533 8.10433C16.8949 8.24322 16.8984 8.38211 16.8637 8.521C16.8289 8.65988 16.7491 8.78488 16.6241 8.896L13.6241 11.4585L14.5199 15.271C14.5616 15.4238 14.5546 15.5731 14.4991 15.7189C14.4435 15.8647 14.3602 15.9793 14.2491 16.0627C14.138 16.146 14.0095 16.1946 13.8637 16.2085C13.7178 16.2224 13.5685 16.1877 13.4158 16.1043L9.99909 14.0627Z" :fill="`${reviewSettingsData?.data?.setting?.widget_settings.star_color_code}`"/>
+                    </g>
+                </svg>
+            </td>
+            <td class="rvx-w-full !rvx-p-0 !rvx-pb-space8 rvx-align-middle !rvx-border-none !rvx-bg-transparent ">
+                <div class="rvx-w-full rvx-relative rvx-aggregation__progressbar">
+                    <div class="rvx-bg-[#D9D9D9] rvx-rounded-full rvx-aggregation__progressbar-inactive" :style="{
+                          height: `8px`
+                        }"></div>
+                    <div class="rvx-bg-primary rvx-rounded-full rvx-absolute rvx-top-0 rvx-left-0 rvx-aggregation__progressbar-active"
+                         :style="{
+                              width: `${stat?.percent}%`,
+                               height: `8px`,
+                               background: `${reviewSettingsData?.data?.setting?.widget_settings.brand_color_code}`
+                        }">
+                    </div>
+                </div>
+            </td>
+            <td class="!rvx-p-0 !rvx-px-space8 !rvx-pb-space8 rvx-align-middle !rvx-border-none rvx-aggregation__total-rating !rvx-bg-transparent">
+                <span x-text="stat.total" class="rvx-font-nunito rvx-text-neutral-800 rvx-font-semibold"></span>
+            </td>
+            <td class="!rvx-p-0 !rvx-pb-space8 rvx-align-middle !rvx-border-none rvx-aggregation__percent !rvx-bg-transparent">
+                <span x-text="'(' + stat?.percent + '%' + ')'" class="rvx-font-nunito rvx-text-neutral-800 rvx-font-semibold"></span>
+            </td>
+        </tr>
+    </template>
+    </tbody>
+</table>
+
+
+

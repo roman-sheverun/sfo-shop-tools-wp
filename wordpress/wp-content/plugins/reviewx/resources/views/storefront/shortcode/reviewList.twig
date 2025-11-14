@@ -1,0 +1,72 @@
+<style>
+    #rvx-review-list .rvx-masonry-layout {
+        columns: 4 320px;
+        column-gap: 16px;
+    }
+    #rvx-review-list p.rvx-review-user__name {
+        margin-bottom: 0px;
+    }
+    #rvx-review-list p {
+        margin-bottom: 5px;
+    }
+    .rvx-columns-box {
+        -moz-column-break-inside: avoid;
+        break-inside: avoid;
+    }
+    #rvx-review-list .rvx-review-info p {
+        margin-bottom: 5px;
+    }
+    [x-cloak] {
+        display: none !important;
+    }
+</style>
+
+<div id="rvx-review-list"
+     x-data="{
+         ...__reviewXState__(),  // Spread the state from the function
+         rawTitle: '{{ title }}',    // Set the title from Twig
+         isRvxUserLoggedIn: '{{ user_is_logged_in }}',
+     }"
+     id="review-list-container" 
+     class="rvx-container rvx-mx-auto"
+     x-init="
+         // Initialize the review list
+         await initializeAllReviewListShortCodes({ data: '{{ data|json_encode() }}' });
+     "
+     @notify-like-dislike="await fetchAllReviewListShortCodes()">
+
+    <h2 x-show="rawTitle !== 'false'"
+        x-cloak
+        class="rvx-text-1xl rvx-font-bold rvx-mb-[10px!important] rvx-mt-[5px!important]"
+        x-text="rawTitle">
+    </h2>
+
+    {# {% if data.filter == "on" %}
+
+        <template x-if="haveReviews || isFiltering">
+            <div>
+                {% include 'storefront/widget/Features/Reviews/Filter/ReviewAllFilterShortcode.twig' %}
+            </div>
+        </template>
+
+    {% endif %} #}
+
+    <template x-if="fetchReviewsIsLoading">
+            {% include "storefront/widget/Components/Skeleton/ReviewListSkeleton.twig" %}
+    </template>
+
+    <template x-if="haveReviews && !fetchReviewsIsLoading && !fetchReviewsSettingsIsLoading" x-cloak>
+        <div>
+            {% include "storefront/widget/Features/Reviews/ReviewsAllLayout.twig" %}
+
+            {% include "storefront/widget/Features/Reviews/Modals/ReviewDetailModal.twig" %}
+        </div>
+    </template>
+
+    <template x-if="!haveReviews && !fetchReviewsIsLoading" x-cloak>
+        <div class="rvx-bg-neutral-100 rvx-py-[64px] rvx-px-space24 rvx-rounded-md rvx-text-center">
+            {% include "storefront/widget/Components/EmptyPlaceholder.twig" %}
+        </div>
+    </template>
+
+</div>

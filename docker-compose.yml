@@ -1,0 +1,48 @@
+services:
+  woocommerce_wordpress:
+    image: wordpress:latest
+    container_name: woocommerce_wordpress
+    restart: always
+    volumes:
+      - ./wordpress:/var/www/html
+      - ./php.ini:/usr/local/etc/php/conf.d/php.ini
+    environment:
+      - WORDPRESS_DB_NAME=${WORDPRESS_DB_NAME}
+      - WORDPRESS_TABLE_PREFIX=wp_
+      - WORDPRESS_DB_HOST=woocommerce_db
+      - WORDPRESS_DB_USER=${WORDPRESS_DB_USER}
+      - WORDPRESS_DB_PASSWORD=${WORDPRESS_DB_PASSWORD}
+    depends_on:
+      - woocommerce_db
+    ports:
+      - "8081:80"
+
+  woocommerce_db:
+    image: mariadb:latest
+    container_name: woocommerce_db
+    restart: always
+    volumes:
+      - db_data:/var/lib/mysql
+    environment:
+      - MYSQL_ROOT_PASSWORD=${WORDPRESS_DB_ADMIN_PASSWORD}
+      - MYSQL_USER=${WORDPRESS_DB_USER}
+      - MYSQL_PASSWORD=${WORDPRESS_DB_PASSWORD}
+      - MYSQL_DATABASE=${WORDPRESS_DB_NAME}
+
+  woocommerce_phpmyadmin:
+    depends_on:
+      - woocommerce_db
+    image: phpmyadmin
+    #platform: linux/amd64
+    container_name: woocommerce_phpmyadmin
+    ports:
+      - 8085:80
+    environment:
+      PMA_HOST: woocommerce_db
+      MYSQL_ROOT_PASSWORD: ${WORDPRESS_DB_ADMIN_PASSWORD}
+      UPLOAD_LIMIT: 300M
+      PHP_INI_UPLOAD_MAX_FILESIZE: 300M
+      PHP_INI_POST_MAX_SIZE: 300M
+      PMA_ABSOLUTE_URI: https://savefryoil.com/shop-tools/phpmyadmin/
+volumes:
+  db_data:

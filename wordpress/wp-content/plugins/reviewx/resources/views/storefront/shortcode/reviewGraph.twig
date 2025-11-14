@@ -1,0 +1,24 @@
+<div x-data="{
+         ...__reviewXState__(),  // Spread the state from the function
+         rawTitle: '{{ title }}',    // Set the title from Twig
+         showTitle: true          // Default to true, will be evaluated in x-init
+     }"
+     id="review-graph-container" 
+     class="rvx-container rvx-mx-auto"
+     x-init="
+         // Initialize the review graph
+         await initializeReviewGraphShortCodes({ data: '{{ data }}' });
+     ">
+
+
+    <!-- Title -->
+    <h2 x-show="rawTitle !== 'false'"
+        x-cloak
+        class="rvx-text-1xl rvx-font-bold rvx-mb-[10px!important] rvx-mt-[5px!important]"
+        x-text="rawTitle">
+    </h2>
+
+    <div id="rvx-review-graph" class="rvx-flex rvx-justify-between rvx-items-center">
+        {% include "storefront/widget/Features/Aggregations/aggregations.twig" %}
+    </div>
+</div>

@@ -1,0 +1,69 @@
+<div 
+    x-data="{
+        rawTitle: '{{ title }}',
+        info: '{{ info ?? 'default' }}'.trim().toLowerCase(),
+        average: parseFloat('{{ data.starCount }}') || 0,
+        totalRating: 5,
+        stars: [],
+        displayMap: {
+            'stars': ['stars'],
+            'rating': ['rating'],
+            'count': ['count'],
+            'text': ['text'],
+            'default': ['stars','rating','count','text'],
+            'stars_rating': ['stars','rating'],
+            'count_text': ['count','text'],
+            'rating_count': ['rating','count'],
+            'rating_count_text': ['rating','count','text'],
+            'stars_count': ['stars','count'],
+            'stars_count_text': ['stars','count','text'],
+        },
+        has(type) { return this.displayMap[this.info]?.includes(type) || false; },
+        init() {
+            this.stars = [];
+            for (let i = 0; i < this.totalRating; i++) {
+                let fill = Math.min(Math.max(this.average - i, 0), 1); 
+                // between 0.0 and 1.0
+                this.stars.push(fill);
+            }
+        }
+    }"
+    x-init="init()"
+    id="review-star-container" 
+    class="rvx-container rvx-mx-auto"
+>
+    <!-- Title -->
+    <h2 x-show="rawTitle !== 'false'"
+        x-cloak
+        class="rvx-text-1xl rvx-font-bold rvx-mb-[10px!important] rvx-mt-[5px!important]"
+        x-text="rawTitle">
+    </h2>
+    
+    <div id="rvx-review-star-count" class="rvx-flex rvx-gap-1 rvx-items-center">
+        <!-- Stars -->
+        <template x-if="has('stars')">
+            <div class="rvx-flex rvx-gap-space2" style="margin-left:1px;margin-top:-3px;" :title="`${average} out of 5 stars`">
+                <template x-for="(fill,i) in stars" :key="i">
+                    <svg class="rvx-w-5 rvx-h-5" width="24px" height="24px" viewBox="0 0 24 24">
+                        <defs>
+                            <linearGradient :id="`gradi-${i}`">
+                                <stop :offset="`${fill*100}%`" stop-color="#f5c800" />
+                                <stop :offset="`${fill*100}%`" stop-color="#808080" />
+                            </linearGradient>
+                        </defs>
+                        <path :fill="`url(#gradi-${i})`" d="M22,10.1c0.1-0.5-0.3-1.1-0.8-1.1l-5.7-0.8L12.9,3c-0.1-0.2-0.2-0.3-0.4-0.4C12,2.3,11.4,2.5,11.1,3L8.6,8.2L2.9,9C2.6,9,2.4,9.1,2.3,9.3c-0.4,0.4-0.4,1,0,1.4l4.1,4l-1,5.7c0,0.2,0,0.4,0.1,0.6c0.3,0.5,0.9,0.7,1.4,0.4l5.1-2.7l5.1,2.7c0.1,0.1,0.3,0.1,0.5,0.1v0c0.1,0,0.1,0,0.2,0c0.5-0.1,0.9-0.6,0.8-1.2l-1-5.7l4.1-4C21.9,10.5,22,10.3,22,10.1z" />
+                    </svg>
+                </template>
+            </div>
+        </template>
+
+        <!-- Numeric rating -->
+        <span x-show="has('rating')" class="rvx-text-[18px] rvx-text-neutral-900">{{ data.starCount }}</span>
+
+        <!-- Review count -->
+        <span x-show="has('count')" class="rvx-text-[17px] rvx-text-neutral-800 rvx-font-normal">({{ data.reviewsCount }})</span>
+
+        <!-- Review text -->
+        <span x-show="has('text')" class="rvx-text-[17px] rvx-text-neutral-700 rvx-font-normal">Reviews</span>
+    </div>
+</div>

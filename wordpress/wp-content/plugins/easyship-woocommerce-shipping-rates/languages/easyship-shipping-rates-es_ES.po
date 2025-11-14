@@ -1,0 +1,231 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Easyship\n"
+"POT-Creation-Date: 2023-07-21 00:15+0200\n"
+"PO-Revision-Date: 2023-07-21 00:15+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.3.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: easyship-shipping-rates.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#. translators: %s: WooCommerce plugin URL.
+#: easyship-shipping-rates.php:38
+#, php-format
+msgid ""
+"Easyship requires WooCommerce to be installed and active. You can download "
+"%s here."
+msgstr ""
+"Easyship requiere que WooCommerce esté instalado y activo. Puedes descargar "
+"%s aquí."
+
+#: includes/api/v1/class-easyship-rest-token-v1-controller.php:84
+#: includes/api/v1/class-easyship-rest-token-v1-controller.php:166
+msgid "Invalid signature - failed to sort parameters."
+msgstr "Firma no válida - hubo un fallo al ordenar parámetros."
+
+#: includes/api/v1/class-easyship-rest-token-v1-controller.php:130
+msgid "Consumer key is invalid."
+msgstr "La clave de cliente es incorrecta."
+
+#: includes/api/v1/class-easyship-rest-token-v1-controller.php:179
+msgid "Invalid signature - signature method is invalid."
+msgstr "Firma incorrecta - el método de firma no es válido."
+
+#: includes/api/v1/class-easyship-rest-token-v1-controller.php:191
+msgid "Invalid signature - provided signature does not match."
+msgstr "Firma incorrecta - No coindicen las firmas."
+
+#: includes/api/v1/class-easyship-rest-token-v1-controller.php:261
+msgid "token is required field"
+msgstr "el token es un campo obligatorio"
+
+#: includes/api/v1/class-easyship-rest-token-v1-controller.php:267
+msgid "store_id is required field"
+msgstr "store_id es un campo obligatorio"
+
+#: includes/api/v1/class-easyship-rest-token-v1-controller.php:293
+msgid "Something went wrong."
+msgstr "Algo salió mal."
+
+#: includes/class-easyship-registration.php:78
+msgid "Service temporarily unavailable"
+msgstr "Servicio temporalmente no disponible"
+
+#: includes/class-easyship-registration.php:111
+msgid "Easyship Integration"
+msgstr "Integración con Easyship"
+
+#: includes/class-easyship-shipping-api.php:99
+msgid "Missing API Key and API Secret OR Access Token!"
+msgstr "¡Falta la clave de API y el secreto de API O token de acceso!"
+
+#: includes/class-easyship-shipping-api.php:125
+msgid "API Secret is incorrect"
+msgstr "El secreto de API es incorrecto"
+
+#. translators: %s: error message.
+#: includes/class-easyship-shipping-api.php:187
+#, php-format
+msgid "Error: %s"
+msgstr "Error: %s"
+
+#: includes/class-easyship-shipping-api.php:241
+msgid ""
+"Sorry, the shipping rates are currently unavailable, please refresh the page "
+"or try again later"
+msgstr ""
+"Lo sentimos, las tarifas de envío no están disponibles actualmente, "
+"actualiza la página o inténtalo de nuevo más tarde"
+
+#: includes/class-easyship-shipping-api.php:243
+msgid ""
+"Sorry, something went wrong with the shipping rates. If the problem "
+"persists, please contact us!"
+msgstr ""
+"Lo sentimos, algo salió mal con las tarifas de envío. ¡Si el problema "
+"persiste, ponte en contacto con nosotros!"
+
+#. Plugin Name of the plugin/theme
+#. Author of the plugin/theme
+#: includes/class-easyship-shipping-method.php:53
+#: includes/class-easyship-shipping-method.php:68
+#: includes/class-easyship-shipping-method.php:100
+msgid "Easyship"
+msgstr "Easyship"
+
+#. translators: %s: Easyship.
+#: includes/class-easyship-shipping-method.php:55
+#, php-format
+msgid "Dynamic Shipping Rates at Checkout, by %s."
+msgstr "Tarifas de envío dinámicas al finalizar la compra, por %s."
+
+#: includes/class-easyship-shipping-method.php:158
+msgid ""
+"Please go to <strong>WooCommerce > Settings > Shipping > Easyship</strong> "
+"to add your API key and API Secret Or Access Token"
+msgstr ""
+"Vete a <strong>WooCommerce > Configuración > Envío > Easyship</strong> para "
+"añadir tu clave API y API Secret o Token de acceso"
+
+#: includes/class-easyship-shipping-method.php:178
+msgid "Skip Shipping Class Slug"
+msgstr "Saltar slug de clase de envío"
+
+#: includes/class-easyship-shipping-method.php:180
+msgid ""
+"Enter the shipping class slug for items which do not need to be shipped with "
+"Easyship. The slug can be found in \"WooCommerce > Settings > Shipping > "
+"Shipping classes\""
+msgstr ""
+"Introduce el slug de la clase de envío para los artículos que no necesitan "
+"ser enviados con Easyship. El slug se puede encontrar en \"WooCommerce > "
+"Configuración > Envío > Clases de envío\""
+
+#: includes/class-easyship-shipping-method.php:193
+msgid "Enable Easyship"
+msgstr "Habilitar Easyship"
+
+#. translators: %s: Easyship URL link.
+#: includes/class-easyship-shipping-method.php:196
+#, php-format
+msgid ""
+"Click 'Enable' will redirect you to Easyship to create an account for free, "
+"or connect to an existing Easyship account. If it doesn't work, don't worry, "
+"you can always create an account at %s to obtain your Access Token, and "
+"paste it below."
+msgstr ""
+"Haga clic en 'Habilitar' te redirigirá a Easyship para crear una cuenta de "
+"forma gratuita o conectarte a una cuenta de Easyship existente. Si no "
+"funciona, no te preocupes, siempre puedes crear una cuenta en %s para "
+"obtener tu token de acceso y pegarlo a continuación."
+
+#: includes/class-easyship-shipping-method.php:201
+msgid "Disable Easyship"
+msgstr "Desactivar Easyship"
+
+#: includes/class-easyship-shipping-method.php:203
+msgid "Click 'Disable' will deactivate the dynamic shipping rates at checkout."
+msgstr ""
+"Haz clic en 'Desactivar' para desactivar las tarifas de envío dinámicas al "
+"finalizar la compra."
+
+#: includes/class-easyship-shipping-method.php:209
+msgid "Easyship Access Token"
+msgstr "Token de acceso de Easyship"
+
+#: includes/class-easyship-shipping-method.php:211
+msgid ""
+"Enter your Easyship Access Token. To retrieve it, connect to the Easyship "
+"dashboard and go to \"Connect > Add New\" to connect your WooCommerce store. "
+"You can then retrieve your Access Token from your store's page by clicking "
+"on \"Activate Rates\". This is also the place where you will be able to set "
+"all your shipping options and rules."
+msgstr ""
+"Introduce tu token de acceso de Easyship. Para recuperarlo, conéctate al "
+"panel de control de Easyship y vete a \"Conectar > Agregar nuevo\" para "
+"conectar tu tienda WooCommerce. A continuación, puedes recuperar tu token de "
+"acceso de la página de tu tienda haciendo clic en \"Activar tarifas\". Este "
+"es también el lugar donde podrás establecer todas tus opciones y reglas de "
+"envío."
+
+#: includes/class-easyship-shipping-method.php:221
+msgid "Enable"
+msgstr "Habilitar"
+
+#: includes/class-easyship-shipping-method.php:223
+msgid ""
+"Enable Easyship Rates. If unchecked, no rates will be shown at checkout."
+msgstr ""
+"Habilitar las tarifas de Easyship. Si no está marcado, no se mostrarán las "
+"tarifas al finalizar la compra."
+
+#: includes/class-easyship-shipping-method.php:227
+msgid "API Key"
+msgstr "Clave API"
+
+#: includes/class-easyship-shipping-method.php:229
+msgid "Enter your Easyship API Key. "
+msgstr "Introduce tu clave API de Easyship. "
+
+#: includes/class-easyship-shipping-method.php:234
+msgid "API Secret"
+msgstr "API Secret"
+
+#: includes/class-easyship-shipping-method.php:236
+msgid "Enter your Easyship API Secret. "
+msgstr "Introduce tu secreto de API de Easyship. "
+
+#: includes/class-wc-integration-easyship.php:90
+msgid "Settings"
+msgstr "Ajustes"
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/easyship-woocommerce-shipping-rates/"
+msgstr "https://wordpress.org/plugins/easyship-woocommerce-shipping-rates/"
+
+#. Description of the plugin/theme
+msgid "Easyship plugin for easy shipping method"
+msgstr "Plugin Easyship para un método de envío fácil"
+
+#. Author URI of the plugin/theme
+msgid "https://www.easyship.com"
+msgstr "https://www.easyship.com"
+
+#~ msgid ""
+#~ "Dynamic Shipping Rates at Checkout, by <a href=\"https://www.easyship."
+#~ "com\" target=\"_blank\">Easyship</a>."
+#~ msgstr ""
+#~ "Tarifas de envío dinámicas al finalizar la compra, por <a href=\"https://"
+#~ "www.easyship.com\" target=\"_blank\">Easyship</a>."

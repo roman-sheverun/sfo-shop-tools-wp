@@ -1,0 +1,222 @@
+********************************************************************************
+********************************************************************************
+DUPLICATOR PRO PACKAGE-LOG: 2025-07-23 16:56:57
+NOTICE: Do NOT post to public sites or forums 
+PACKAGE CREATION START
+********************************************************************************
+********************************************************************************
+VERSION:	4.5.12
+WORDPRESS:	6.7.2
+PHP INFO:	8.2.27 | SAPI: apache2handler
+SERVER:		Apache/2.4.62 (Debian) 
+ARCHITECTURE:	64-bit 
+CLIENT KICKOFF: off 
+PHP TIME LIMIT: [7200] not allowed 
+PHP MAX MEMORY: 4294967296 (2048M default) 
+RUN TYPE:	Manual
+MEMORY STACK:	24MB
+ARCHIVE ENGINE: ZipArchive: multi-thread
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP + CHUNKING (query size limit - 131072 )
+
+TABLES: total: 66 | filtered:0 | create:66
+REWIND DATABASE ITERATOR
+INSERT ROWS TABLE[INDEX:0] wp_users NUM ROWS: 7
+REWIND DATABASE ITERATOR
+INSERT ROWS TABLE[INDEX:0] wp_users NUM ROWS: 7
+INSERT ROWS TABLE[INDEX:1] wp_usermeta NUM ROWS: 280
+INSERT ROWS TABLE[INDEX:2] wp_actionscheduler_actions NUM ROWS: 224
+INSERT ROWS TABLE[INDEX:3] wp_actionscheduler_claims NUM ROWS: 8760
+INSERT ROWS TABLE[INDEX:4] wp_actionscheduler_groups NUM ROWS: 9
+INSERT ROWS TABLE[INDEX:5] wp_actionscheduler_logs NUM ROWS: 661
+INSERT ROWS TABLE[INDEX:6] wp_commentmeta NUM ROWS: 8
+INSERT ROWS TABLE[INDEX:7] wp_comments NUM ROWS: 93
+INSERT ROWS TABLE[INDEX:8] wp_duplicator_pro_entities NUM ROWS: 5
+INSERT ROWS TABLE[INDEX:9] wp_duplicator_pro_packages NUM ROWS: 1
+INSERT ROWS TABLE[INDEX:10] wp_e_events NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:11] wp_e_notes NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:12] wp_e_notes_users_relations NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:13] wp_e_submissions NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:14] wp_e_submissions_actions_log NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:15] wp_e_submissions_values NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:16] wp_jetpack_sync_queue NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:17] wp_links NUM ROWS: 10
+INSERT ROWS TABLE[INDEX:18] wp_options NUM ROWS: 1403
+INSERT ROWS TABLE[INDEX:19] wp_postmeta NUM ROWS: 4228
+INSERT ROWS TABLE[INDEX:20] wp_posts NUM ROWS: 757
+INSERT ROWS TABLE[INDEX:21] wp_rvx_migrations NUM ROWS: 1
+INSERT ROWS TABLE[INDEX:22] wp_rvx_sites NUM ROWS: 1
+INSERT ROWS TABLE[INDEX:23] wp_termmeta NUM ROWS: 23
+INSERT ROWS TABLE[INDEX:24] wp_terms NUM ROWS: 33
+INSERT ROWS TABLE[INDEX:25] wp_term_relationships NUM ROWS: 100
+INSERT ROWS TABLE[INDEX:26] wp_term_taxonomy NUM ROWS: 33
+INSERT ROWS TABLE[INDEX:27] wp_wc_admin_notes NUM ROWS: 93
+INSERT ROWS TABLE[INDEX:28] wp_wc_admin_note_actions NUM ROWS: 121
+INSERT ROWS TABLE[INDEX:29] wp_wc_category_lookup NUM ROWS: 9
+INSERT ROWS TABLE[INDEX:30] wp_wc_customer_lookup NUM ROWS: 18
+INSERT ROWS TABLE[INDEX:31] wp_wc_download_log NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:32] wp_wc_orders NUM ROWS: 43
+INSERT ROWS TABLE[INDEX:33] wp_wc_orders_meta NUM ROWS: 478
+INSERT ROWS TABLE[INDEX:34] wp_wc_order_addresses NUM ROWS: 57
+INSERT ROWS TABLE[INDEX:35] wp_wc_order_coupon_lookup NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:36] wp_wc_order_operational_data NUM ROWS: 43
+INSERT ROWS TABLE[INDEX:37] wp_wc_order_product_lookup NUM ROWS: 59
+INSERT ROWS TABLE[INDEX:38] wp_wc_order_stats NUM ROWS: 42
+INSERT ROWS TABLE[INDEX:39] wp_wc_order_tax_lookup NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:40] wp_wc_product_attributes_lookup NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:41] wp_wc_product_download_directories NUM ROWS: 2
+INSERT ROWS TABLE[INDEX:42] wp_wc_product_meta_lookup NUM ROWS: 25
+INSERT ROWS TABLE[INDEX:43] wp_wc_rate_limits NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:44] wp_wc_reserved_stock NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:45] wp_wc_tax_rate_classes NUM ROWS: 2
+INSERT ROWS TABLE[INDEX:46] wp_wc_webhooks NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:47] wp_woocommerce_api_keys NUM ROWS: 7
+INSERT ROWS TABLE[INDEX:48] wp_woocommerce_attribute_taxonomies NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:49] wp_woocommerce_downloadable_product_permissions NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:50] wp_woocommerce_log NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:51] wp_woocommerce_order_itemmeta NUM ROWS: 731
+INSERT ROWS TABLE[INDEX:52] wp_woocommerce_order_items NUM ROWS: 96
+INSERT ROWS TABLE[INDEX:53] wp_woocommerce_payment_tokenmeta NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:54] wp_woocommerce_payment_tokens NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:55] wp_woocommerce_sessions NUM ROWS: 35
+INSERT ROWS TABLE[INDEX:56] wp_woocommerce_shipping_zones NUM ROWS: 1
+INSERT ROWS TABLE[INDEX:57] wp_woocommerce_shipping_zone_locations NUM ROWS: 4
+INSERT ROWS TABLE[INDEX:58] wp_woocommerce_shipping_zone_methods NUM ROWS: 2
+INSERT ROWS TABLE[INDEX:59] wp_woocommerce_tax_rates NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:60] wp_woocommerce_tax_rate_locations NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:61] wp_wpfm_backup NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:62] wp_wpr_above_the_fold NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:63] wp_wpr_lazy_render_content NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:64] wp_wpr_rocket_cache NUM ROWS: 37
+INSERT ROWS TABLE[INDEX:65] wp_wpr_rucss_used_css NUM ROWS: 0
+SQL FILE SIZE CHECK OK, SIZE: 170664511
+SQL CREATED: 20250723_savefryoil_dab1f2279e4330dc9919_20250723165215_database.sql
+SQL FILE SIZE: 162.76MB
+SQL FILE TIME: 2025-07-23 16:57:05
+SQL RUNTIME: 8.137 sec.
+MEMORY STACK: 24MB
+
+********************************************************************************
+ARCHIVE Mode:ZipArchive Multi-Threaded
+********************************************************************************
+ARCHIVE DIR:  /var/www/html
+ARCHIVE FILE: 20250723_savefryoil_dab1f2279e4330dc9919_20250723165215_archive.zip
+COMPRESSION: *ON*
+FILTERS: *OFF*
+DIRS:  not set
+EXTS:  not set
+FILES:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	433.17MB
+STATS:	Dirs 4,716 | Files 24,938 | Total 29,654
+SQL ADDED: 20250723_savefryoil_dab1f2279e4330dc9919_20250723165215_database.sql
+
+********************************************************************************
+ARCHIVE Mode:ZipArchive Multi-Threaded
+********************************************************************************
+ARCHIVE DIR:  /var/www/html
+ARCHIVE FILE: 20250723_savefryoil_dab1f2279e4330dc9919_20250723165215_archive.zip
+COMPRESSION: *ON*
+FILTERS: *OFF*
+DIRS:  not set
+EXTS:  not set
+FILES:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	433.17MB
+STATS:	Dirs 4,716 | Files 24,938 | Total 29,654
+SQL ADDED: 20250723_savefryoil_dab1f2279e4330dc9919_20250723165215_database.sql
+
+********************************************************************************
+ARCHIVE Mode:ZipArchive Multi-Threaded
+********************************************************************************
+ARCHIVE DIR:  /var/www/html
+ARCHIVE FILE: 20250723_savefryoil_dab1f2279e4330dc9919_20250723165215_archive.zip
+COMPRESSION: *ON*
+FILTERS: *OFF*
+DIRS:  not set
+EXTS:  not set
+FILES:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	433.17MB
+STATS:	Dirs 4,716 | Files 24,938 | Total 29,654
+SQL ADDED: 20250723_savefryoil_dab1f2279e4330dc9919_20250723165215_database.sql
+
+********************************************************************************
+ARCHIVE Mode:ZipArchive Multi-Threaded
+********************************************************************************
+ARCHIVE DIR:  /var/www/html
+ARCHIVE FILE: 20250723_savefryoil_dab1f2279e4330dc9919_20250723165215_archive.zip
+COMPRESSION: *ON*
+FILTERS: *OFF*
+DIRS:  not set
+EXTS:  not set
+FILES:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	433.17MB
+STATS:	Dirs 4,716 | Files 24,938 | Total 29,654
+SQL ADDED: 20250723_savefryoil_dab1f2279e4330dc9919_20250723165215_database.sql
+
+********************************************************************************
+ARCHIVE Mode:ZipArchive Multi-Threaded
+********************************************************************************
+ARCHIVE DIR:  /var/www/html
+ARCHIVE FILE: 20250723_savefryoil_dab1f2279e4330dc9919_20250723165215_archive.zip
+COMPRESSION: *ON*
+FILTERS: *OFF*
+DIRS:  not set
+EXTS:  not set
+FILES:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	433.17MB
+STATS:	Dirs 4,716 | Files 24,938 | Total 29,654
+SQL ADDED: 20250723_savefryoil_dab1f2279e4330dc9919_20250723165215_database.sql
+COMPRESSED SIZE: 224.26MB
+ARCHIVE RUNTIME: 1753289922.606 sec.
+MEMORY STACK: 28MB
+ARCHIVE CONSISTENCY TEST: PASS
+
+********************************************************************************
+STORAGE:
+********************************************************************************
+LOCAL: Default, /var/www/html/wp-content/backups-dup-pro
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 162.76MB
+INSTALLER FILE: 128.51KB
+ARCHIVE FILE: 226.96MB 
+EXPECTED FILE/DIRECTORY COUNT: 29,654
+ACTUAL FILE/DIRECTORY COUNT: 29,654
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 109.014 sec.
+PEAK PHP MEMORY USED: 24MB
+DONE PROCESSING => 20250723_savefryoil 2025-07-23 16:58:46
+
+-----------------------------------------
+STORAGE PROCESSING THREAD INITIATED
+** LOCAL [Name: Default] [ID: -2] **
+SUCCESS: package is in default location: /var/www/html/wp-content/backups-dup-pro
+-----------------------------------------
+STORAGE PROCESSING THREAD INITIATED
+STORAGE PROCESSING COMPLETED
+
+********************************************************************************
+********************************************************************************
+DUPLICATOR PRO PACKAGE CREATION OR MANUAL STORAGE TRANSFER END: 2025-07-23 16:58:46
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+********************************************************************************
+
+[PHP ERR][ISSUE] MSG:Creation of dynamic property Rvx\WPDrill\DB\QueryBuilder\QueryBuilderHandler::$adapterConfig is deprecated [CODE:8192|FILE:/var/www/html/wp-content/plugins/reviewx/vendor/wpdrill/core/src/DB/QueryBuilder/QueryBuilderHandler.php|LINE:59]
+[PHP ERR][ISSUE] MSG:Creation of dynamic property Rvx\WPDrill\DB\QueryBuilder\QueryBuilderHandler::$adapterConfig is deprecated [CODE:8192|FILE:/var/www/html/wp-content/plugins/reviewx/vendor/wpdrill/core/src/DB/QueryBuilder/QueryBuilderHandler.php|LINE:59]

@@ -1,0 +1,2842 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ReviewX\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-27 12:11+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.2; wp-5.5"
+
+msgid "\"Very good\" badge will show on more than 4 star+ review"
+msgstr ""
+
+msgid "Action"
+msgstr ""
+
+msgid "Add a reviews"
+msgstr ""
+
+msgid ""
+"Add a title field to reviews, allowing customers to summarize their feedback "
+"in a few words for quick insights."
+msgstr ""
+
+msgid "Add another criteria"
+msgstr ""
+
+msgid "Add Multiple Review"
+msgstr ""
+
+msgid "Add New Review"
+msgstr ""
+
+msgid "Admin email"
+msgstr ""
+
+msgid "Admin notification"
+msgstr ""
+
+msgid "After"
+msgstr ""
+
+msgid "All"
+msgstr ""
+
+msgid "All Rating"
+msgstr ""
+
+msgid "All remainder settings"
+msgstr ""
+
+msgid "All Reviews"
+msgstr ""
+
+msgid "All reviews will be removed under this location"
+msgstr ""
+
+msgid "All time"
+msgstr ""
+
+msgid "Allow anonymous review"
+msgstr ""
+
+msgid "Allow consent checkbox"
+msgstr ""
+
+msgid "Allow customer to give review anonymously"
+msgstr ""
+
+msgid "Allow customer to share review to the social media"
+msgstr ""
+
+msgid ""
+"Allow customers to like or dislike individual reviews. This helps highlight "
+"helpful feedback and engage your audience."
+msgstr ""
+
+msgid "Allow customers to recommend the products"
+msgstr ""
+
+msgid "Allow customers to upload the image with review"
+msgstr ""
+
+msgid "Allow customers to upload video with review"
+msgstr ""
+
+msgid "Allow photo review"
+msgstr ""
+
+msgid ""
+"Allow reviewers to add a recommendation (yes or no) for the product, giving "
+"future customers a clear sense of overall satisfaction."
+msgstr ""
+
+msgid ""
+"Allow reviews based on multiple criteria, such as quality, price, and ease "
+"of use. This gives customers a more comprehensive understanding of the "
+"product"
+msgstr ""
+
+msgid "Allow Video review"
+msgstr ""
+
+msgid "Anyone"
+msgstr ""
+
+msgid "API key here"
+msgstr ""
+
+msgid "Approve"
+msgstr ""
+
+msgid "Archive"
+msgstr ""
+
+msgid "Are you sure that you want to disconnect this location?"
+msgstr ""
+
+msgid "Attachment"
+msgstr ""
+
+msgid "Attachments"
+msgstr ""
+
+msgid "Auto publish"
+msgstr ""
+
+msgid "Available on Growth plan"
+msgstr ""
+
+msgid "Available on Pro plan"
+msgstr ""
+
+msgid "Available on the Pro plan and above"
+msgstr ""
+
+msgid "Badge"
+msgstr ""
+
+msgid "Banner"
+msgstr ""
+
+msgid "Both"
+msgstr ""
+
+msgid "Brand Color"
+msgstr ""
+
+msgid "Browse"
+msgstr ""
+
+msgid "Button text"
+msgstr ""
+
+msgid "Button Text Color"
+msgstr ""
+
+msgid "Buy more with [discount_amount] off for your review on [shop_name]!"
+msgstr ""
+
+msgid "By Attachments"
+msgstr ""
+
+msgid "By rating"
+msgstr ""
+
+msgid "By time"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Cancelled"
+msgstr ""
+
+msgid "Check this box if the coupon cannot be used with other coupons."
+msgstr ""
+
+msgid "Check this box if the coupon grants free shipping."
+msgstr ""
+
+msgid "Clicked"
+msgstr ""
+
+msgid "Color"
+msgstr ""
+
+msgid "Completed"
+msgstr ""
+
+msgid "Connect"
+msgstr ""
+
+msgid "Connected"
+msgstr ""
+
+msgid "Content"
+msgstr ""
+
+msgid "Create"
+msgstr ""
+
+msgid "CSV files only"
+msgstr ""
+
+msgid "Customer"
+msgstr ""
+
+msgid "Customer can add a title during add a review "
+msgstr ""
+
+msgid "Customer can allow you to use his review for promotional use"
+msgstr ""
+
+msgid "Customer can like or dislike any review"
+msgstr ""
+
+msgid "Customer can view review lists by applying filtered and short"
+msgstr ""
+
+msgid "Customer Reviews"
+msgstr ""
+
+msgid ""
+"Customers will receive an email with the discount codes upon submitting "
+"their reviews. In this section below, you can edit the content of the "
+"discount email."
+msgstr ""
+
+msgid "Dark Background"
+msgstr ""
+
+msgid "Dashboard"
+msgstr ""
+
+msgid "Date Range"
+msgstr ""
+
+msgid "days"
+msgstr ""
+
+msgid "Default"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "Disable Default product schema"
+msgstr ""
+
+msgid "Disable product schema markup for reviews."
+msgstr ""
+
+msgid "Disconnect"
+msgstr ""
+
+msgid "Disconnect this Location?"
+msgstr ""
+
+msgid "Discount Code"
+msgstr ""
+
+msgid "Discount Email"
+msgstr ""
+
+msgid "Discount for First Review Request"
+msgstr ""
+
+msgid "Discount for Follow Up Review"
+msgstr ""
+
+msgid "Discount for On-store Review"
+msgstr ""
+
+msgid "Discount for Photo/Video Review Request"
+msgstr ""
+
+msgid "Discount Message"
+msgstr ""
+
+msgid "Discount Message for Review Reminder Email"
+msgstr ""
+
+msgid "discount on your next purchase."
+msgstr ""
+
+msgid "Discount Type"
+msgstr ""
+
+msgid "Discount Value *"
+msgstr ""
+
+msgid "Display reviewer's country with review"
+msgstr ""
+
+msgid "Display reviewer's name"
+msgstr ""
+
+msgid "Display reviewer's name censor"
+msgstr ""
+
+msgid ""
+"Display the reviewer's country with their review. It adds more context and "
+"credibility to the feedback."
+msgstr ""
+
+msgid "Download the sample CSV template"
+msgstr ""
+
+msgid "Draft"
+msgstr ""
+
+msgid "Drag & drop here."
+msgstr ""
+
+msgid "Edit condition"
+msgstr ""
+
+msgid "Edit review"
+msgstr ""
+
+msgid "Eligibility for send reviews"
+msgstr ""
+
+msgid "Email Address"
+msgstr ""
+
+msgid "Email content"
+msgstr ""
+
+msgid "Email subject"
+msgstr ""
+
+msgid ""
+"Enable anonymous reviews, allowing customers to provide feedback without "
+"revealing their identity, which may encourage more honest opinions."
+msgstr ""
+
+msgid ""
+"Enable customers to attach photos to their reviews, adding visual proof and "
+"enhancing the credibility of their feedback."
+msgstr ""
+
+msgid ""
+"Enable customers to submit video reviews, providing a more detailed and "
+"engaging way to showcase their experiences."
+msgstr ""
+
+msgid "Enable google reCAPTCHA"
+msgstr ""
+
+msgid ""
+"Enable Google reCAPTCHA to prevent spam and ensure that reviews are "
+"submitted by real users, enhancing the integrity of your customer reviews."
+msgstr ""
+
+msgid "Enable like/dislike"
+msgstr ""
+
+msgid ""
+"Enable sharing options for reviews, allowing customers to share them on "
+"social media or other platforms, increasing your product's visibility."
+msgstr ""
+
+msgid ""
+"Encourage customers to enhance their review by adding a photo or video. This "
+"follow-up request goes to those who haven’t included media with their review."
+msgstr ""
+
+msgid "entries"
+msgstr ""
+
+msgid "Expire in"
+msgstr ""
+
+msgid "Export"
+msgstr ""
+
+msgid "Export history"
+msgstr ""
+
+msgid "Export Reviews"
+msgstr ""
+
+msgid "Facebook"
+msgstr ""
+
+msgid "Failed"
+msgstr ""
+
+msgid "Filter"
+msgstr ""
+
+msgid "Filter & sort"
+msgstr ""
+
+msgid "Filter by"
+msgstr ""
+
+msgid "Filter options"
+msgstr ""
+
+msgid "First Review Request"
+msgstr ""
+
+msgid "Follow up Review Request"
+msgstr ""
+
+msgid "for all rating"
+msgstr ""
+
+msgid "for customer's full name"
+msgstr ""
+
+msgid "for customer's order number"
+msgstr ""
+
+msgid "form here"
+msgstr ""
+
+msgid "Full Name"
+msgstr ""
+
+msgid "General Settings"
+msgstr ""
+
+msgid "Get notification, when customer send reviews"
+msgstr ""
+
+msgid ""
+"Give customers a discount after they leave their first review from your "
+"review request email. This reward thanks them for their feedback."
+msgstr ""
+
+msgid "Google API Key"
+msgstr ""
+
+msgid "Google Place ID or URL"
+msgstr ""
+
+msgid "Greater then"
+msgstr ""
+
+msgid "Grid"
+msgstr ""
+
+msgid "Help center"
+msgstr ""
+
+msgid "here"
+msgstr ""
+
+msgid "Here is a list of supported pre-set email placeholders:"
+msgstr ""
+
+msgid "Here is a little appreciation for your time."
+msgstr ""
+
+msgid "How the reviews should look on your site?"
+msgstr ""
+
+msgid "How to import reviews from CSV file"
+msgstr ""
+
+msgid ""
+"If any user submit review in your product, it will appear here. Or you can "
+"import your existing reviews"
+msgstr ""
+
+msgid "Import"
+msgstr ""
+
+msgid "Import history"
+msgstr ""
+
+msgid "Import now"
+msgstr ""
+
+msgid "Import reviews"
+msgstr ""
+
+msgid "In which order status your customer will be able to send reviews?"
+msgstr ""
+
+msgid "Input key here"
+msgstr ""
+
+msgid "It will impact on your public view site"
+msgstr ""
+
+msgid "Keep as Default"
+msgstr ""
+
+msgid "Less then"
+msgstr ""
+
+msgid "Light Background"
+msgstr ""
+
+msgid "Light Border"
+msgstr ""
+
+msgid "List"
+msgstr ""
+
+msgid "Mail Opened"
+msgstr ""
+
+msgid ""
+"Make sure your customers can unsubscribe from emails when you send them."
+msgstr ""
+
+msgid "Mark as Anonymous"
+msgstr ""
+
+msgid "Mark as Completed"
+msgstr ""
+
+msgid "Mark as verified"
+msgstr ""
+
+msgid "Masonry"
+msgstr ""
+
+msgid "Maximum Spend"
+msgstr ""
+
+msgid "Minimum Spend"
+msgstr ""
+
+msgid "Month"
+msgstr ""
+
+msgid "More Available on Growth plan"
+msgstr ""
+
+msgid "Move to archive"
+msgstr ""
+
+msgid "Move to spam"
+msgstr ""
+
+msgid "Move to trash"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Need help?"
+msgstr ""
+
+msgid "Newest first"
+msgstr ""
+
+msgid "No data found"
+msgstr ""
+
+msgid "No reviews found"
+msgstr ""
+
+msgid ""
+"Note: if you already have a csv file prepared, please ensure it is organized "
+"in the same format as our sample file before uploading."
+msgstr ""
+
+msgid "of"
+msgstr ""
+
+msgid "of first review request"
+msgstr ""
+
+msgid "of review submit, without Photo/video"
+msgstr ""
+
+msgid "off your next purchase at"
+msgstr ""
+
+msgid ""
+"Offer a discount for customers who submit reviews directly from your store"
+msgstr ""
+
+msgid "Oldest first"
+msgstr ""
+
+msgid "On hold"
+msgstr ""
+
+msgid "One customer can send multiple reviews"
+msgstr ""
+
+msgid "One customer can send multiple reviews on the same product"
+msgstr ""
+
+msgid "Only for "
+msgstr ""
+
+msgid "Opened"
+msgstr ""
+
+msgid "or"
+msgstr ""
+
+msgid "Order ID"
+msgstr ""
+
+msgid "Organize your reviews in relative sections"
+msgstr ""
+
+msgid "out of"
+msgstr ""
+
+msgid "out of 5"
+msgstr ""
+
+msgid "Overview of Review Request Emails"
+msgstr ""
+
+msgid "Pending"
+msgstr ""
+
+msgid "Pending payment"
+msgstr ""
+
+msgid "Place ID or URL here"
+msgstr ""
+
+msgid "Please redeem the discount code to get a"
+msgstr ""
+
+msgid "Processing"
+msgstr ""
+
+msgid "Product Name & ID"
+msgstr ""
+
+msgid "Product/Post"
+msgstr ""
+
+msgid "Products"
+msgstr ""
+
+msgid "Published"
+msgstr ""
+
+msgid "Rating"
+msgstr ""
+
+msgid "Rating :all"
+msgstr ""
+
+msgid "Rating Ascending"
+msgstr ""
+
+msgid "Rating Descending"
+msgstr ""
+
+msgid "Read Documentation"
+msgstr ""
+
+msgid "reCAPTCHA Secret key"
+msgstr ""
+
+msgid "reCAPTCHA Site key"
+msgstr ""
+
+msgid "Recipient"
+msgstr ""
+
+msgid "Recommendation?"
+msgstr ""
+
+msgid "Refunded"
+msgstr ""
+
+msgid "Reminder Settings"
+msgstr ""
+
+msgid "Request Emails"
+msgstr ""
+
+msgid "Request for Photo/Video Review"
+msgstr ""
+
+msgid "Resend"
+msgstr ""
+
+msgid "Reset filters"
+msgstr ""
+
+msgid "Review"
+msgstr ""
+
+msgid "Review auto approval"
+msgstr ""
+
+msgid "Review ID"
+msgstr ""
+
+msgid "Review layout"
+msgstr ""
+
+msgid "Review on multi-criteria"
+msgstr ""
+
+msgid "Review Reminder"
+msgstr ""
+
+msgid "Review Settings"
+msgstr ""
+
+msgid "Review share"
+msgstr ""
+
+msgid "Review Title"
+msgstr ""
+
+msgid "Review title field"
+msgstr ""
+
+msgid "Review will be auto publish on your site after submission"
+msgstr ""
+
+msgid "Reviewer"
+msgstr ""
+
+msgid "reviews"
+msgstr ""
+
+msgid ""
+"Reward customers with a discount when they add a photo or video to their "
+"review after receiving this request. This encourages them to share more "
+"detailed feedback."
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Save Changes"
+msgstr ""
+
+msgid "Scheduled"
+msgstr ""
+
+msgid "Search name, email & order id"
+msgstr ""
+
+msgid "Search name, product & more..."
+msgstr ""
+
+msgid "Search Product"
+msgstr ""
+
+msgid "Secondary text will place here, below the image"
+msgstr ""
+
+msgid "Section Preview"
+msgstr ""
+
+msgid "See all reviews"
+msgstr ""
+
+msgid "See where will get the key"
+msgstr ""
+
+msgid "Select"
+msgstr ""
+
+msgid "Select a date range for export reviews"
+msgstr ""
+
+msgid "Select date"
+msgstr ""
+
+msgid "Select dates"
+msgstr ""
+
+msgid "Select Style:"
+msgstr ""
+
+msgid "Send"
+msgstr ""
+
+msgid ""
+"Send a discount to customers who submit a review after receiving a follow-up "
+"reminder. It’s a great way to encourage reviews from those who haven’t "
+"responded yet."
+msgstr ""
+
+msgid ""
+"Send a second request to customers who haven’t left a review yet. This helps "
+"remind them to share their feedback."
+msgstr ""
+
+msgid ""
+"Send a second request to customers who haven’t left a review yet. This helps "
+"remind them to share their feedback. Change email content."
+msgstr ""
+
+msgid ""
+"Send another email to ask customers to add a photo or video to their review "
+"if they haven't already."
+msgstr ""
+
+msgid "Send Now"
+msgstr ""
+
+msgid "Send test mail"
+msgstr ""
+
+msgid "Sending date"
+msgstr ""
+
+msgid "Sending Status"
+msgstr ""
+
+msgid "Sent"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Shop Icon"
+msgstr ""
+
+msgid "Shop Now"
+msgstr ""
+
+msgid "Shortcode:"
+msgstr ""
+
+msgid "Show \"Verified owner\" label on customer reviews"
+msgstr ""
+
+msgid "Show badge on review section"
+msgstr ""
+
+msgid ""
+"Show or hide the reviewer's name alongside their review. This helps build "
+"trust and authenticity for your product reviews."
+msgstr ""
+
+msgid "Showing"
+msgstr ""
+
+msgid "Single Code for All"
+msgstr ""
+
+msgid "Sort by"
+msgstr ""
+
+msgid "Sort options"
+msgstr ""
+
+msgid "Spam"
+msgstr ""
+
+msgid "Star"
+msgstr ""
+
+msgid "Star & above"
+msgstr ""
+
+msgid "Star Color"
+msgstr ""
+
+msgid "Status"
+msgstr ""
+
+msgid "Stuck with something? Get help from live chat or support ticket."
+msgstr ""
+
+msgid "Submit review"
+msgstr ""
+
+msgid "Submitted at"
+msgstr ""
+
+msgid ""
+"The review request email will include this discount message. Make sure the "
+"discount is enabled."
+msgstr ""
+
+msgid ""
+"This additional message will included in the review reminder emails to "
+"motivate the customer for leaving reviews."
+msgstr ""
+
+msgid ""
+"This is the first mail you send to ask a customer for a review. You can set "
+"it to send after a certain number of days from purchase, depending on the "
+"order status."
+msgstr ""
+
+msgid ""
+"This is the first mail you send to ask a customer for a review. You can set "
+"it to send after a certain number of days from purchase, depending on the "
+"order status. Change email content"
+msgstr ""
+
+msgid "to"
+msgstr ""
+
+msgid "Total"
+msgstr ""
+
+msgid "Total Clicked"
+msgstr ""
+
+msgid "Total Request Sent"
+msgstr ""
+
+msgid "Total Reviews Collected"
+msgstr ""
+
+msgid "Trash"
+msgstr ""
+
+msgid "Twitter"
+msgstr ""
+
+msgid "Unpublished"
+msgstr ""
+
+msgid "Unsubscribe"
+msgstr ""
+
+msgid "Unsubscribed"
+msgstr ""
+
+msgid "Unverified"
+msgstr ""
+
+msgid "Update Banner"
+msgstr ""
+
+msgid "Upgrade"
+msgstr ""
+
+msgid ""
+"Upload a JPG, PNG, or GIF image that's up to 1200px wide and less than 5MB "
+"in size."
+msgstr ""
+
+msgid "Upload Banner"
+msgstr ""
+
+msgid "Upload Icon"
+msgstr ""
+
+msgid "Upload Photo / Video"
+msgstr ""
+
+msgid "Upload the CSV file below"
+msgstr ""
+
+msgid "Usage limit per coupon"
+msgstr ""
+
+msgid "Usage limit per user"
+msgstr ""
+
+msgid "Usage Limits"
+msgstr ""
+
+msgid "Usage Restriction"
+msgstr ""
+
+msgid "User Name"
+msgstr ""
+
+msgid "Verified"
+msgstr ""
+
+msgid "Very Good"
+msgstr ""
+
+msgid "View details"
+msgstr ""
+
+msgid "Was this helpful"
+msgstr ""
+
+msgid "We are really grateful for your valuable feedback!"
+msgstr ""
+
+msgid "Week"
+msgstr ""
+
+msgid "When to notify?"
+msgstr ""
+
+msgid "Who can send reviews on your shop?"
+msgstr ""
+
+msgid "Widget Settings"
+msgstr ""
+
+msgid "With Attachment"
+msgstr ""
+
+msgid "Without Attachment"
+msgstr ""
+
+msgid "Write a review"
+msgstr ""
+
+msgid "Write Review Title"
+msgstr ""
+
+msgid "Write your description here"
+msgstr ""
+
+msgid "Write your reply here"
+msgstr ""
+
+msgid "Year"
+msgstr ""
+
+msgid "You can also export specific product reviews, if you want"
+msgstr ""
+
+msgid "You don't have any reviews"
+msgstr ""
+
+msgid "You may combine any of the options above."
+msgstr ""
+
+msgid "You will get"
+msgstr ""
+
+msgid ""
+"Your customers can sent there review on your product based on multiple "
+"criteria"
+msgstr ""
+
+msgid "Full name"
+msgstr ""
+
+msgid "Email address"
+msgstr ""
+
+#. Plugin Name of the plugin
+#: reviewx.php
+msgid "ReviewX – Multi-Criteria Rating & Reviews"
+msgstr ""
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+#: reviewx.php
+msgid "https://reviewx.io"
+msgstr ""
+
+#. Description of the plugin
+#: reviewx.php
+msgid ""
+"Advanced Multi-Criteria Rating & Reviews for WooCommerce. Turn customer "
+"reviews into sales by leveraging reviews with multiple criteria, reminder "
+"emails, Google reviews, review schemas, and incentives like discounts."
+msgstr ""
+
+#. Author of the plugin
+#: reviewx.php app/Handlers/Customize/WidgetCustomizeOptionsHandler.php:42
+#: bootstrap/menu.php:11 bootstrap/menu.php:35
+msgid "ReviewX"
+msgstr ""
+
+#: app/Builder/Support/OxygenBuilder.php:267
+#: app/Elementor/Elements/Data_Tabs.php:619
+#: app/Elementor/Elements/Review_Widget.php:620
+#: app/RvxDivi/includes/modules/RvxReviews/RvxReviews.php:424
+#: app/RvxDivi/includes/modules/RvxTabs/RvxTabs.php:425
+msgid "Avatar Fallback Color"
+msgstr ""
+
+#: app/Builder/Support/OxygenBuilder.php:276
+msgid "Avatar Fallback BG Color"
+msgstr ""
+
+#: app/Builder/Support/OxygenBuilder.php:285
+#: app/Elementor/Elements/Data_Tabs.php:645
+#: app/Elementor/Elements/Review_Widget.php:645
+#: app/RvxDivi/includes/modules/RvxReviews/RvxReviews.php:435
+#: app/RvxDivi/includes/modules/RvxTabs/RvxTabs.php:436
+msgid "Name Text Color"
+msgstr ""
+
+#: app/Builder/Support/OxygenBuilder.php:294
+#: app/Elementor/Elements/Data_Tabs.php:632
+#: app/Elementor/Elements/Review_Widget.php:633
+msgid "Review Card Background Color"
+msgstr ""
+
+#: app/Builder/Support/OxygenBuilder.php:303
+#: app/Elementor/Elements/Data_Tabs.php:658
+#: app/Elementor/Elements/Review_Widget.php:658
+#: app/RvxDivi/includes/modules/RvxReviews/RvxReviews.php:446
+#: app/RvxDivi/includes/modules/RvxTabs/RvxTabs.php:447
+msgid "Rating Star Active Color"
+msgstr ""
+
+#: app/Builder/Support/OxygenBuilder.php:312
+#: app/Elementor/Elements/Data_Tabs.php:676
+#: app/Elementor/Elements/Review_Widget.php:676
+#: app/RvxDivi/includes/modules/RvxReviews/RvxReviews.php:457
+#: app/RvxDivi/includes/modules/RvxTabs/RvxTabs.php:458
+msgid "Rating Star Inactive Color"
+msgstr ""
+
+#: app/Builder/Support/OxygenBuilder.php:321
+#: app/Elementor/Elements/Cpt_Widget.php:315
+#: app/Elementor/Elements/Data_Tabs.php:703
+#: app/Elementor/Elements/Review_Widget.php:703
+#: app/RvxDivi/includes/modules/RvxReviews/RvxReviews.php:468
+#: app/RvxDivi/includes/modules/RvxTabs/RvxTabs.php:469
+msgid "Review Title Color"
+msgstr ""
+
+#: app/Builder/Support/OxygenBuilder.php:330
+#: app/Elementor/Elements/Data_Tabs.php:725
+#: app/Elementor/Elements/Review_Widget.php:725
+#: app/RvxDivi/includes/modules/RvxReviews/RvxReviews.php:523
+#: app/RvxDivi/includes/modules/RvxTabs/RvxTabs.php:524
+msgid "Review Description Text Color"
+msgstr ""
+
+#: app/Builder/Support/OxygenBuilder.php:339
+#: app/Elementor/Elements/Data_Tabs.php:746
+#: app/Elementor/Elements/Review_Widget.php:746
+#: app/RvxDivi/includes/modules/RvxReviews/RvxReviews.php:479
+#: app/RvxDivi/includes/modules/RvxTabs/RvxTabs.php:480
+msgid "Review Date Color"
+msgstr ""
+
+#: app/Builder/Support/OxygenBuilder.php:348
+#: app/Elementor/Elements/Data_Tabs.php:767
+#: app/Elementor/Elements/Review_Widget.php:767
+#: app/RvxDivi/includes/modules/RvxReviews/RvxReviews.php:490
+#: app/RvxDivi/includes/modules/RvxTabs/RvxTabs.php:491
+msgid "Was This Helpful Text Color"
+msgstr ""
+
+#: app/Builder/Support/OxygenBuilder.php:357
+#: app/Elementor/Elements/Data_Tabs.php:779
+#: app/Elementor/Elements/Review_Widget.php:779
+#: app/RvxDivi/includes/modules/RvxReviews/RvxReviews.php:501
+#: app/RvxDivi/includes/modules/RvxTabs/RvxTabs.php:502
+msgid "Review Like Color"
+msgstr ""
+
+#: app/Builder/Support/OxygenBuilder.php:366
+#: app/Elementor/Elements/Data_Tabs.php:791
+#: app/Elementor/Elements/Review_Widget.php:835
+#: app/RvxDivi/includes/modules/RvxReviews/RvxReviews.php:512
+#: app/RvxDivi/includes/modules/RvxTabs/RvxTabs.php:513
+msgid "Review Dislike"
+msgstr ""
+
+#: app/Builder/Support/OxygenBuilder.php:375
+#: app/Elementor/Elements/Data_Tabs.php:803
+#: app/Elementor/Elements/Review_Widget.php:791
+#: app/RvxDivi/includes/modules/RvxReviews/RvxReviews.php:917
+#: app/RvxDivi/includes/modules/RvxTabs/RvxTabs.php:919
+msgid "Load More Background Color"
+msgstr ""
+
+#: app/Builder/Support/OxygenBuilder.php:384
+#: app/Elementor/Elements/Data_Tabs.php:814
+#: app/Elementor/Elements/Review_Widget.php:802
+#: app/RvxDivi/includes/modules/RvxReviews/RvxReviews.php:928
+#: app/RvxDivi/includes/modules/RvxTabs/RvxTabs.php:930
+msgid "Load More Text Color"
+msgstr ""
+
+#: app/Builder/Support/OxygenBuilder.php:393
+#: app/Elementor/Elements/Data_Tabs.php:825
+#: app/Elementor/Elements/Review_Widget.php:813
+#: app/RvxDivi/includes/modules/RvxReviews/RvxReviews.php:939
+#: app/RvxDivi/includes/modules/RvxTabs/RvxTabs.php:941
+msgid "Load More Hover Background Color"
+msgstr ""
+
+#: app/Builder/Support/OxygenBuilder.php:402
+#: app/Elementor/Elements/Data_Tabs.php:836
+#: app/Elementor/Elements/Review_Widget.php:824
+#: app/RvxDivi/includes/modules/RvxReviews/RvxReviews.php:950
+#: app/RvxDivi/includes/modules/RvxTabs/RvxTabs.php:952
+msgid "Load More Text Hover Color"
+msgstr ""
+
+#: app/Elementor/Elements/Cpt_Widget.php:38
+msgid "ReviewX CPT Review"
+msgstr ""
+
+#: app/Elementor/Elements/Cpt_Widget.php:91
+#: app/Elementor/Elements/Data_Tabs.php:94
+#: app/Elementor/Elements/Review_Widget.php:93
+msgid "Line"
+msgstr ""
+
+#: app/Elementor/Elements/Cpt_Widget.php:93
+#: app/Elementor/Elements/Data_Tabs.php:96
+#: app/Elementor/Elements/Review_Widget.php:95
+msgid "Solid"
+msgstr ""
+
+#: app/Elementor/Elements/Cpt_Widget.php:94
+#: app/Elementor/Elements/Data_Tabs.php:97
+#: app/Elementor/Elements/Review_Widget.php:96
+msgid "Double"
+msgstr ""
+
+#: app/Elementor/Elements/Cpt_Widget.php:95
+#: app/Elementor/Elements/Data_Tabs.php:98
+#: app/Elementor/Elements/Review_Widget.php:97
+msgid "Dotted"
+msgstr ""
+
+#: app/Elementor/Elements/Cpt_Widget.php:96
+#: app/Elementor/Elements/Data_Tabs.php:99
+#: app/Elementor/Elements/Review_Widget.php:98
+msgid "Dashed"
+msgstr ""
+
+#: app/Elementor/Elements/Cpt_Widget.php:151
+msgid "Graph of Review Criteria"
+msgstr ""
+
+#: app/Elementor/Elements/Cpt_Widget.php:160
+msgid "Rating Out Color"
+msgstr ""
+
+#: app/Elementor/Elements/Cpt_Widget.php:171
+msgid "Rating Color"
+msgstr ""
+
+#: app/Elementor/Elements/Cpt_Widget.php:182
+msgid "Badge Background Color"
+msgstr ""
+
+#: app/Elementor/Elements/Cpt_Widget.php:193
+msgid "Badge Text Color"
+msgstr ""
+
+#: app/Elementor/Elements/Cpt_Widget.php:204
+#: app/Elementor/Elements/Data_Tabs.php:477
+#: app/Elementor/Elements/Review_Widget.php:478
+#: app/RvxDivi/includes/modules/RvxReviews/RvxReviews.php:286
+#: app/RvxDivi/includes/modules/RvxTabs/RvxTabs.php:287
+msgid "Summary Star Color"
+msgstr ""
+
+#: app/Elementor/Elements/Cpt_Widget.php:215
+msgid "Summary Criteria Star Color"
+msgstr ""
+
+#: app/Elementor/Elements/Cpt_Widget.php:226
+msgid "Aggregation Multicriteria Bar"
+msgstr ""
+
+#: app/Elementor/Elements/Cpt_Widget.php:237
+msgid "Progressbar Active Color"
+msgstr ""
+
+#: app/Elementor/Elements/Cpt_Widget.php:248
+msgid "Total Reviews Color"
+msgstr ""
+
+#: app/Elementor/Elements/Cpt_Widget.php:259
+msgid "Total Criteria Color"
+msgstr ""
+
+#: app/Elementor/Elements/Cpt_Widget.php:276
+msgid "Review Item"
+msgstr ""
+
+#: app/Elementor/Elements/Cpt_Widget.php:286
+#: app/Elementor/Elements/Data_Tabs.php:571
+#: app/Elementor/Elements/Review_Widget.php:572
+msgid "Reviewer Information"
+msgstr ""
+
+#: app/Elementor/Elements/Cpt_Widget.php:294
+msgid "Reviewer Name Color"
+msgstr ""
+
+#: app/Elementor/Elements/Cpt_Widget.php:307
+#: app/Elementor/Elements/Data_Tabs.php:695
+#: app/Elementor/Elements/Review_Widget.php:695
+msgid "Main Content"
+msgstr ""
+
+#: app/Elementor/Elements/Cpt_Widget.php:328
+msgid "Review Title Typography"
+msgstr ""
+
+#: app/Elementor/Elements/Cpt_Widget.php:336
+msgid "Review Comments Color"
+msgstr ""
+
+#: app/Elementor/Elements/Cpt_Widget.php:349
+msgid "Review Comments Typography"
+msgstr ""
+
+#: app/Elementor/Elements/Cpt_Widget.php:362
+msgid "Meta Information"
+msgstr ""
+
+#: app/Elementor/Elements/Cpt_Widget.php:369
+msgid "Write Review"
+msgstr ""
+
+#: app/Elementor/Elements/Cpt_Widget.php:380
+msgid "Write Review Text Color"
+msgstr ""
+
+#: app/Elementor/Elements/Cpt_Widget.php:391
+msgid "Reviewed Date Icon Color"
+msgstr ""
+
+#: app/Elementor/Elements/Cpt_Widget.php:404
+msgid "Reviewed Date Typography"
+msgstr ""
+
+#: app/Elementor/Elements/Cpt_Widget.php:422
+msgid "Review Item Like"
+msgstr ""
+
+#: app/Elementor/Elements/Cpt_Widget.php:433
+msgid "Review Item Disike"
+msgstr ""
+
+#: app/Elementor/Elements/Cpt_Widget.php:444
+msgid "User Name Background Color"
+msgstr ""
+
+#: app/Elementor/Elements/Cpt_Widget.php:455
+msgid "User Name Color"
+msgstr ""
+
+#: app/Elementor/Elements/Cpt_Widget.php:472
+#: app/Elementor/Elements/Data_Tabs.php:1092
+#: app/Elementor/Elements/Review_Widget.php:1092
+#: app/Handlers/Customize/WidgetCustomizeOptionsHandler.php:79
+#: app/Oxygen/elements/rvx-product-tabs.php:252
+#: app/Oxygen/elements/rvx-woo-reviews.php:52
+#: app/RvxDivi/includes/modules/RvxTabs/DiviDesignTrait.php:22
+msgid "Review Form"
+msgstr ""
+
+#: app/Elementor/Elements/Cpt_Widget.php:481
+#: app/Elementor/Elements/Data_Tabs.php:1274
+#: app/Elementor/Elements/Review_Widget.php:1274
+#: app/RvxDivi/includes/modules/RvxReviews/RvxReviews.php:548
+#: app/RvxDivi/includes/modules/RvxTabs/RvxTabs.php:549
+msgid "Form Background Color"
+msgstr ""
+
+#: app/Elementor/Elements/Cpt_Widget.php:492
+msgid "Criteria star color active"
+msgstr ""
+
+#: app/Elementor/Elements/Cpt_Widget.php:503
+#: app/Elementor/Elements/Cpt_Widget.php:514
+#: app/Elementor/Elements/Cpt_Widget.php:525
+msgid "Criteria star color inactive"
+msgstr ""
+
+#: app/Elementor/Elements/Cpt_Widget.php:536
+msgid "Placeholder text color"
+msgstr ""
+
+#: app/Elementor/Elements/Cpt_Widget.php:548
+#: app/Elementor/Elements/Cpt_Widget.php:575
+msgid "Product image radius"
+msgstr ""
+
+#: app/Elementor/Elements/Cpt_Widget.php:564
+msgid "Hide product image"
+msgstr ""
+
+#: app/Elementor/Elements/Cpt_Widget.php:587
+#: app/Elementor/Elements/Data_Tabs.php:1340
+#: app/Elementor/Elements/Review_Widget.php:1340
+#: app/RvxDivi/includes/modules/RvxReviews/RvxReviews.php:629
+#: app/RvxDivi/includes/modules/RvxTabs/RvxTabs.php:630
+msgid "Product Title Color"
+msgstr ""
+
+#: app/Elementor/Elements/Cpt_Widget.php:605
+msgid "Criteria Title Color"
+msgstr ""
+
+#: app/Elementor/Elements/Cpt_Widget.php:617
+msgid "Review Input Title Color"
+msgstr ""
+
+#: app/Elementor/Elements/Cpt_Widget.php:636
+msgid "Review Description Title"
+msgstr ""
+
+#: app/Elementor/Elements/Cpt_Widget.php:647
+msgid "Review Attachment Title"
+msgstr ""
+
+#: app/Elementor/Elements/Cpt_Widget.php:658
+msgid "Review Recommended Title"
+msgstr ""
+
+#: app/Elementor/Elements/Cpt_Widget.php:677
+#: app/Elementor/Elements/Data_Tabs.php:1504
+#: app/Elementor/Elements/Review_Widget.php:1504
+#: app/RvxDivi/includes/modules/RvxReviews/RvxReviews.php:750
+#: app/RvxDivi/includes/modules/RvxTabs/RvxTabs.php:751
+msgid "Submit Button Text Color"
+msgstr ""
+
+#: app/Elementor/Elements/Cpt_Widget.php:691
+msgid "Submit Button Text Typography"
+msgstr ""
+
+#: app/Elementor/Elements/Cpt_Widget.php:700
+#: app/Elementor/Elements/Data_Tabs.php:1491
+#: app/Elementor/Elements/Review_Widget.php:1491
+#: app/RvxDivi/includes/modules/RvxReviews/RvxReviews.php:739
+#: app/RvxDivi/includes/modules/RvxTabs/RvxTabs.php:740
+msgid "Submit Button Background Color"
+msgstr ""
+
+#: app/Elementor/Elements/Cpt_Widget.php:713
+#: app/Elementor/Elements/Data_Tabs.php:1530
+#: app/Elementor/Elements/Review_Widget.php:1530
+msgid "Submit Button Border Radius"
+msgstr ""
+
+#: app/Elementor/Elements/Cpt_Widget.php:725
+msgid "Anonymous Text Color"
+msgstr ""
+
+#: app/Elementor/Elements/Cpt_Widget.php:742
+msgid "Front size"
+msgstr ""
+
+#: app/Elementor/Elements/Cpt_Widget.php:750
+#: app/Elementor/Elements/Data_Tabs.php:1556
+#: app/Elementor/Elements/Review_Widget.php:1557
+msgid "Review Criteria Typography"
+msgstr ""
+
+#: app/Elementor/Elements/Cpt_Widget.php:758
+#: app/Elementor/Elements/Data_Tabs.php:1564
+#: app/Elementor/Elements/Review_Widget.php:1565
+#: app/Oxygen/elements/rvx-product-tabs.php:468
+#: app/Oxygen/elements/rvx-woo-reviews.php:128
+msgid "Criteria Label Typography"
+msgstr ""
+
+#: app/Elementor/Elements/Cpt_Widget.php:766
+#: app/Elementor/Elements/Data_Tabs.php:1572
+#: app/Elementor/Elements/Review_Widget.php:1573
+#: app/Oxygen/elements/rvx-product-tabs.php:473
+#: app/Oxygen/elements/rvx-woo-reviews.php:133
+msgid "Criteria Value Typography"
+msgstr ""
+
+#: app/Elementor/Elements/Cpt_Widget.php:775
+#: app/Elementor/Elements/Data_Tabs.php:1581
+#: app/Elementor/Elements/Review_Widget.php:1582
+msgid "Title lable"
+msgstr ""
+
+#: app/Elementor/Elements/Cpt_Widget.php:784
+#: app/Elementor/Elements/Data_Tabs.php:1590
+#: app/Elementor/Elements/Review_Widget.php:1591
+#: app/Oxygen/elements/rvx-product-tabs.php:483
+#: app/Oxygen/elements/rvx-woo-reviews.php:143
+msgid "Title Value"
+msgstr ""
+
+#: app/Elementor/Elements/Cpt_Widget.php:793
+#: app/Elementor/Elements/Data_Tabs.php:1599
+#: app/Elementor/Elements/Review_Widget.php:1600
+#: app/Oxygen/elements/rvx-product-tabs.php:488
+#: app/Oxygen/elements/rvx-woo-reviews.php:148
+msgid "Description label"
+msgstr ""
+
+#: app/Elementor/Elements/Cpt_Widget.php:802
+#: app/Elementor/Elements/Data_Tabs.php:1608
+#: app/Elementor/Elements/Review_Widget.php:1609
+#: app/Oxygen/elements/rvx-product-tabs.php:493
+#: app/Oxygen/elements/rvx-woo-reviews.php:153
+msgid "Description Value"
+msgstr ""
+
+#: app/Elementor/Elements/Cpt_Widget.php:818
+#: app/Elementor/Elements/Data_Tabs.php:1624
+#: app/Elementor/Elements/Review_Widget.php:1625
+#: app/Oxygen/elements/rvx-product-tabs.php:503
+#: app/Oxygen/elements/rvx-woo-reviews.php:173
+msgid "Recommended"
+msgstr ""
+
+#: app/Elementor/Elements/Cpt_Widget.php:839
+#: app/Elementor/Elements/Data_Tabs.php:859
+#: app/Elementor/Elements/Review_Widget.php:859
+#: app/Oxygen/elements/rvx-product-tabs.php:251
+#: app/Oxygen/elements/rvx-woo-reviews.php:51
+#: app/RvxDivi/includes/modules/RvxTabs/DiviDesignTrait.php:30
+msgid "Filter Options"
+msgstr ""
+
+#: app/Elementor/Elements/Cpt_Widget.php:846
+#: app/Elementor/Elements/Data_Tabs.php:889
+#: app/Elementor/Elements/Review_Widget.php:889
+#: app/RvxDivi/includes/modules/RvxReviews/RvxReviews.php:785
+#: app/RvxDivi/includes/modules/RvxTabs/RvxTabs.php:787
+msgid "Filter Text Color"
+msgstr ""
+
+#: app/Elementor/Elements/Cpt_Widget.php:857
+#: app/Elementor/Elements/Data_Tabs.php:900
+#: app/Elementor/Elements/Review_Widget.php:900
+msgid "Filter Button Background color"
+msgstr ""
+
+#: app/Elementor/Elements/Cpt_Widget.php:869
+msgid "Filter Button Font Size"
+msgstr ""
+
+#: app/Elementor/Elements/Cpt_Widget.php:884
+msgid "Filter By Text Color"
+msgstr ""
+
+#: app/Elementor/Elements/Cpt_Widget.php:896
+msgid "Filter By Font Size"
+msgstr ""
+
+#: app/Elementor/Elements/Cpt_Widget.php:911
+msgid "Dropdown Background Color"
+msgstr ""
+
+#: app/Elementor/Elements/Cpt_Widget.php:922
+msgid "Reset Filters Text Color"
+msgstr ""
+
+#: app/Elementor/Elements/Cpt_Widget.php:933
+msgid "Filter Button Background"
+msgstr ""
+
+#: app/Elementor/Elements/Cpt_Widget.php:944
+msgid "Button Border Radius"
+msgstr ""
+
+#: app/Elementor/Elements/Cpt_Widget.php:955
+msgid "Filter Dropdown Text Color"
+msgstr ""
+
+#: app/Elementor/Elements/Cpt_Widget.php:966
+msgid "Short By Dropdown Color"
+msgstr ""
+
+#: app/Elementor/Elements/Cpt_Widget.php:977
+msgid "Short By Dropdown BG Color"
+msgstr ""
+
+#: app/Elementor/Elements/Cpt_Widget.php:1002
+msgid ""
+"This widget only works for the post page. In order to achieve, follow the "
+"steps: this  Dashboard >  Template  > Theme Builder > Add New > Choose "
+"Template Type 'Single Post' > Create Template"
+msgstr ""
+
+#: app/Elementor/Elements/Data_Tabs.php:40
+msgid "ReviewX Product Data Tabs"
+msgstr ""
+
+#: app/Elementor/Elements/Data_Tabs.php:143
+#: app/Elementor/Elements/Review_Widget.php:144
+#: app/Oxygen/elements/rvx-product-tabs.php:56
+msgid "Tabs"
+msgstr ""
+
+#: app/Elementor/Elements/Data_Tabs.php:152
+#: app/Elementor/Elements/Review_Widget.php:153
+msgid ""
+"The style of this widget is often affected by your theme and plugins. If you "
+"experience any such issue, try to switch to a basic theme and deactivate "
+"related plugins."
+msgstr ""
+
+#: app/Elementor/Elements/Data_Tabs.php:162
+#: app/Elementor/Elements/Review_Widget.php:163
+msgid "Normal"
+msgstr ""
+
+#: app/Elementor/Elements/Data_Tabs.php:169
+#: app/Elementor/Elements/Data_Tabs.php:213
+#: app/Elementor/Elements/Data_Tabs.php:291
+#: app/Elementor/Elements/Data_Tabs.php:320
+#: app/Elementor/Elements/Review_Widget.php:170
+#: app/Elementor/Elements/Review_Widget.php:214
+#: app/Elementor/Elements/Review_Widget.php:292
+#: app/Elementor/Elements/Review_Widget.php:321
+msgid "Text Color"
+msgstr ""
+
+#: app/Elementor/Elements/Data_Tabs.php:180
+#: app/Elementor/Elements/Data_Tabs.php:224
+#: app/Elementor/Elements/Review_Widget.php:181
+#: app/Elementor/Elements/Review_Widget.php:225
+msgid "Background Color"
+msgstr ""
+
+#: app/Elementor/Elements/Data_Tabs.php:192
+#: app/Elementor/Elements/Data_Tabs.php:237
+#: app/Elementor/Elements/Review_Widget.php:193
+#: app/Elementor/Elements/Review_Widget.php:238
+msgid "Border Color"
+msgstr ""
+
+#: app/Elementor/Elements/Data_Tabs.php:206
+#: app/Elementor/Elements/Review_Widget.php:207
+msgid "Active"
+msgstr ""
+
+#: app/Elementor/Elements/Data_Tabs.php:262
+#: app/Elementor/Elements/Data_Tabs.php:303
+#: app/Elementor/Elements/Data_Tabs.php:332
+#: app/Elementor/Elements/Review_Widget.php:263
+#: app/Elementor/Elements/Review_Widget.php:304
+#: app/Elementor/Elements/Review_Widget.php:333
+msgid "Typography"
+msgstr ""
+
+#: app/Elementor/Elements/Data_Tabs.php:270
+#: app/Elementor/Elements/Data_Tabs.php:358
+#: app/Elementor/Elements/Review_Widget.php:271
+#: app/Elementor/Elements/Review_Widget.php:359
+msgid "Border Radius"
+msgstr ""
+
+#: app/Elementor/Elements/Data_Tabs.php:283
+#: app/Elementor/Elements/Review_Widget.php:284
+msgid "Panel"
+msgstr ""
+
+#: app/Elementor/Elements/Data_Tabs.php:312
+#: app/Elementor/Elements/Review_Widget.php:313
+msgid "Heading"
+msgstr ""
+
+#: app/Elementor/Elements/Data_Tabs.php:347
+#: app/Elementor/Elements/Review_Widget.php:348
+msgid "Border Width"
+msgstr ""
+
+#: app/Elementor/Elements/Data_Tabs.php:389
+#: app/Elementor/Elements/Review_Widget.php:390
+#: app/Oxygen/elements/rvx-product-tabs.php:248
+#: app/Oxygen/elements/rvx-woo-reviews.php:48
+#: app/RvxDivi/includes/modules/RvxTabs/DiviDesignTrait.php:14
+msgid "Review Summary"
+msgstr ""
+
+#: app/Elementor/Elements/Data_Tabs.php:398
+#: app/Elementor/Elements/Review_Widget.php:399
+#: app/RvxDivi/includes/modules/RvxReviews/RvxReviews.php:209
+#: app/RvxDivi/includes/modules/RvxTabs/RvxTabs.php:210
+msgid "Average Rating Color"
+msgstr ""
+
+#: app/Elementor/Elements/Data_Tabs.php:409
+#: app/Elementor/Elements/Review_Widget.php:410
+#: app/RvxDivi/includes/modules/RvxReviews/RvxReviews.php:220
+#: app/RvxDivi/includes/modules/RvxTabs/RvxTabs.php:221
+msgid "Max Rating Color"
+msgstr ""
+
+#: app/Elementor/Elements/Data_Tabs.php:420
+#: app/Elementor/Elements/Review_Widget.php:421
+#: app/RvxDivi/includes/modules/RvxReviews/RvxReviews.php:231
+#: app/RvxDivi/includes/modules/RvxTabs/RvxTabs.php:232
+msgid "Badge Background Color"
+msgstr ""
+
+#: app/Elementor/Elements/Data_Tabs.php:431
+#: app/Elementor/Elements/Review_Widget.php:432
+#: app/RvxDivi/includes/modules/RvxReviews/RvxReviews.php:242
+#: app/RvxDivi/includes/modules/RvxTabs/RvxTabs.php:243
+msgid "Badge Text Color"
+msgstr ""
+
+#: app/Elementor/Elements/Data_Tabs.php:442
+#: app/Elementor/Elements/Review_Widget.php:443
+#: app/RvxDivi/includes/modules/RvxReviews/RvxReviews.php:253
+#: app/RvxDivi/includes/modules/RvxTabs/RvxTabs.php:254
+msgid "Average Rating Star Active Color"
+msgstr ""
+
+#: app/Elementor/Elements/Data_Tabs.php:454
+#: app/Elementor/Elements/Review_Widget.php:455
+msgid "Average Rating Star inactive Color"
+msgstr ""
+
+#: app/Elementor/Elements/Data_Tabs.php:466
+#: app/Elementor/Elements/Review_Widget.php:467
+#: app/RvxDivi/includes/modules/RvxReviews/RvxReviews.php:275
+#: app/RvxDivi/includes/modules/RvxTabs/RvxTabs.php:276
+msgid "Total Review Count Color"
+msgstr ""
+
+#: app/Elementor/Elements/Data_Tabs.php:488
+#: app/Elementor/Elements/Review_Widget.php:489
+#: app/RvxDivi/includes/modules/RvxReviews/RvxReviews.php:297
+#: app/RvxDivi/includes/modules/RvxTabs/RvxTabs.php:298
+msgid "Summary Progress Bar Active Color"
+msgstr ""
+
+#: app/Elementor/Elements/Data_Tabs.php:499
+#: app/Elementor/Elements/Review_Widget.php:500
+#: app/RvxDivi/includes/modules/RvxReviews/RvxReviews.php:308
+#: app/RvxDivi/includes/modules/RvxTabs/RvxTabs.php:309
+msgid "Summary Progress Bar Inactive Color"
+msgstr ""
+
+#: app/Elementor/Elements/Data_Tabs.php:510
+#: app/Elementor/Elements/Review_Widget.php:511
+#: app/RvxDivi/includes/modules/RvxReviews/RvxReviews.php:319
+#: app/RvxDivi/includes/modules/RvxTabs/RvxTabs.php:320
+msgid "Multi Criteria Title Color"
+msgstr ""
+
+#: app/Elementor/Elements/Data_Tabs.php:521
+#: app/Elementor/Elements/Review_Widget.php:522
+#: app/RvxDivi/includes/modules/RvxReviews/RvxReviews.php:330
+#: app/RvxDivi/includes/modules/RvxTabs/RvxTabs.php:331
+msgid "Multi Criteria Progress Bar Active Color"
+msgstr ""
+
+#: app/Elementor/Elements/Data_Tabs.php:532
+#: app/Elementor/Elements/Review_Widget.php:533
+#: app/RvxDivi/includes/modules/RvxReviews/RvxReviews.php:341
+#: app/RvxDivi/includes/modules/RvxTabs/RvxTabs.php:342
+msgid "Multi Criteria Progress Bar Inactive Color"
+msgstr ""
+
+#: app/Elementor/Elements/Data_Tabs.php:543
+#: app/Elementor/Elements/Review_Widget.php:544
+#: app/RvxDivi/includes/modules/RvxReviews/RvxReviews.php:352
+#: app/RvxDivi/includes/modules/RvxTabs/RvxTabs.php:353
+msgid "Multi Criteria Star Color"
+msgstr ""
+
+#: app/Elementor/Elements/Data_Tabs.php:561
+#: app/Elementor/Elements/Review_Widget.php:562
+#: app/Oxygen/elements/rvx-product-tabs.php:250
+#: app/Oxygen/elements/rvx-woo-reviews.php:50
+#: app/RvxDivi/includes/modules/RvxTabs/DiviDesignTrait.php:18
+msgid "Review Card"
+msgstr ""
+
+#: app/Elementor/Elements/Data_Tabs.php:579
+#: app/Elementor/Elements/Review_Widget.php:580
+msgid "Avatar Size"
+msgstr ""
+
+#: app/Elementor/Elements/Data_Tabs.php:600
+#: app/Elementor/Elements/Review_Widget.php:601
+msgid "Avatar Fallback Typography"
+msgstr ""
+
+#: app/Elementor/Elements/Data_Tabs.php:867
+#: app/Elementor/Elements/Review_Widget.php:867
+#: app/RvxDivi/includes/modules/RvxReviews/RvxReviews.php:763
+#: app/RvxDivi/includes/modules/RvxTabs/RvxTabs.php:765
+msgid "Write Review Action Background Color"
+msgstr ""
+
+#: app/Elementor/Elements/Data_Tabs.php:878
+#: app/Elementor/Elements/Review_Widget.php:878
+#: app/RvxDivi/includes/modules/RvxReviews/RvxReviews.php:774
+#: app/RvxDivi/includes/modules/RvxTabs/RvxTabs.php:776
+msgid "Write Review Action Text Color"
+msgstr ""
+
+#: app/Elementor/Elements/Data_Tabs.php:927
+#: app/Elementor/Elements/Review_Widget.php:927
+#: app/RvxDivi/includes/modules/RvxReviews/RvxReviews.php:807
+#: app/RvxDivi/includes/modules/RvxTabs/RvxTabs.php:809
+msgid "Filter Dropdown Background Color"
+msgstr ""
+
+#: app/Elementor/Elements/Data_Tabs.php:941
+#: app/Elementor/Elements/Review_Widget.php:941
+#: app/RvxDivi/includes/modules/RvxReviews/RvxReviews.php:818
+#: app/RvxDivi/includes/modules/RvxTabs/RvxTabs.php:820
+msgid "Dropdown Filter By Text Color"
+msgstr ""
+
+#: app/Elementor/Elements/Data_Tabs.php:952
+#: app/Elementor/Elements/Review_Widget.php:952
+#: app/RvxDivi/includes/modules/RvxReviews/RvxReviews.php:829
+#: app/RvxDivi/includes/modules/RvxTabs/RvxTabs.php:831
+msgid "Dropdown Filter Options Text Color"
+msgstr ""
+
+#: app/Elementor/Elements/Data_Tabs.php:972
+#: app/Elementor/Elements/Review_Widget.php:972
+#: app/RvxDivi/includes/modules/RvxReviews/RvxReviews.php:840
+#: app/RvxDivi/includes/modules/RvxTabs/RvxTabs.php:842
+msgid "Dropdown Filter Option Icon Color"
+msgstr ""
+
+#: app/Elementor/Elements/Data_Tabs.php:1003
+#: app/Elementor/Elements/Review_Widget.php:1003
+#: app/RvxDivi/includes/modules/RvxReviews/RvxReviews.php:851
+#: app/RvxDivi/includes/modules/RvxTabs/RvxTabs.php:853
+msgid "Filter Reset Button Text Color"
+msgstr ""
+
+#: app/Elementor/Elements/Data_Tabs.php:1014
+#: app/Elementor/Elements/Review_Widget.php:1014
+#: app/RvxDivi/includes/modules/RvxReviews/RvxReviews.php:862
+#: app/RvxDivi/includes/modules/RvxTabs/RvxTabs.php:864
+msgid "Filter Reset Button Background"
+msgstr ""
+
+#: app/Elementor/Elements/Data_Tabs.php:1025
+#: app/Elementor/Elements/Review_Widget.php:1025
+msgid "Filter Reset Button Border Radius"
+msgstr ""
+
+#: app/Elementor/Elements/Data_Tabs.php:1037
+#: app/Elementor/Elements/Review_Widget.php:1037
+#: app/RvxDivi/includes/modules/RvxReviews/RvxReviews.php:873
+#: app/RvxDivi/includes/modules/RvxTabs/RvxTabs.php:875
+msgid "Sort By Button Text Color"
+msgstr ""
+
+#: app/Elementor/Elements/Data_Tabs.php:1049
+#: app/Elementor/Elements/Review_Widget.php:1049
+#: app/RvxDivi/includes/modules/RvxReviews/RvxReviews.php:884
+#: app/RvxDivi/includes/modules/RvxTabs/RvxTabs.php:886
+msgid "Sort By Button Background Color"
+msgstr ""
+
+#: app/Elementor/Elements/Data_Tabs.php:1061
+#: app/Elementor/Elements/Review_Widget.php:1061
+#: app/RvxDivi/includes/modules/RvxReviews/RvxReviews.php:895
+#: app/RvxDivi/includes/modules/RvxTabs/RvxTabs.php:897
+msgid "Sort By Dropdown Text Color"
+msgstr ""
+
+#: app/Elementor/Elements/Data_Tabs.php:1073
+#: app/Elementor/Elements/Review_Widget.php:1073
+#: app/RvxDivi/includes/modules/RvxReviews/RvxReviews.php:906
+#: app/RvxDivi/includes/modules/RvxTabs/RvxTabs.php:908
+msgid "Sort By Dropdown Background Color"
+msgstr ""
+
+#: app/Elementor/Elements/Data_Tabs.php:1100
+#: app/Elementor/Elements/Review_Widget.php:1100
+#: app/Handlers/CommentBoxHandle.php:222
+#: resources/views/storefront/widget/Features/Reviews/Filter/ReviewFilter.twig:94
+msgid "Write a Review"
+msgstr ""
+
+#: app/Elementor/Elements/Data_Tabs.php:1113
+#: app/Elementor/Elements/Review_Widget.php:1113
+msgid "Rating (Text)"
+msgstr ""
+
+#: app/Elementor/Elements/Data_Tabs.php:1126
+#: app/Elementor/Elements/Review_Widget.php:1126
+msgid "Review Title (Text)"
+msgstr ""
+
+#: app/Elementor/Elements/Data_Tabs.php:1138
+#: app/Elementor/Elements/Review_Widget.php:1138
+msgid "Review Title (Placeholder)"
+msgstr ""
+
+#: app/Elementor/Elements/Data_Tabs.php:1151
+#: app/Elementor/Elements/Review_Widget.php:1151
+msgid "Description (Text)"
+msgstr ""
+
+#: app/Elementor/Elements/Data_Tabs.php:1163
+#: app/Elementor/Elements/Review_Widget.php:1163
+msgid "Description (Placeholder)"
+msgstr ""
+
+#: app/Elementor/Elements/Data_Tabs.php:1176
+#: app/Elementor/Elements/Review_Widget.php:1176
+msgid "Full Name (Text)"
+msgstr ""
+
+#: app/Elementor/Elements/Data_Tabs.php:1188
+#: app/Elementor/Elements/Review_Widget.php:1188
+msgid "Full Name (Placeholder)"
+msgstr ""
+
+#: app/Elementor/Elements/Data_Tabs.php:1201
+#: app/Elementor/Elements/Review_Widget.php:1201
+msgid "Email Address (Text)"
+msgstr ""
+
+#: app/Elementor/Elements/Data_Tabs.php:1213
+#: app/Elementor/Elements/Review_Widget.php:1213
+msgid "Email Address (Placeholder)"
+msgstr ""
+
+#: app/Elementor/Elements/Data_Tabs.php:1226
+#: app/Elementor/Elements/Review_Widget.php:1226
+msgid "Attachment (Text)"
+msgstr ""
+
+#: app/Elementor/Elements/Data_Tabs.php:1238
+msgid "Upload Photo / Video (Placeholder)"
+msgstr ""
+
+#: app/Elementor/Elements/Data_Tabs.php:1250
+#: app/Elementor/Elements/Review_Widget.php:1250
+msgid "Mark as Anonymous (Text)"
+msgstr ""
+
+#: app/Elementor/Elements/Data_Tabs.php:1262
+#: app/Elementor/Elements/Review_Widget.php:1262
+msgid "Recommended? (Text)"
+msgstr ""
+
+#: app/Elementor/Elements/Data_Tabs.php:1286
+#: app/Elementor/Elements/Review_Widget.php:1286
+#: app/RvxDivi/includes/modules/RvxReviews/RvxReviews.php:607
+#: app/RvxDivi/includes/modules/RvxTabs/RvxTabs.php:608
+msgid "Form Title Color"
+msgstr ""
+
+#: app/Elementor/Elements/Data_Tabs.php:1297
+#: app/Elementor/Elements/Review_Widget.php:1297
+#: app/RvxDivi/includes/modules/RvxReviews/RvxReviews.php:618
+#: app/RvxDivi/includes/modules/RvxTabs/RvxTabs.php:619
+msgid "Form Border Line Color"
+msgstr ""
+
+#: app/Elementor/Elements/Data_Tabs.php:1309
+#: app/Elementor/Elements/Review_Widget.php:1309
+msgid "Product Image Size"
+msgstr ""
+
+#: app/Elementor/Elements/Data_Tabs.php:1352
+#: app/Elementor/Elements/Review_Widget.php:1352
+#: app/RvxDivi/includes/modules/RvxReviews/RvxReviews.php:640
+#: app/RvxDivi/includes/modules/RvxTabs/RvxTabs.php:641
+msgid "Rating Active Star Color"
+msgstr ""
+
+#: app/Elementor/Elements/Data_Tabs.php:1363
+#: app/Elementor/Elements/Review_Widget.php:1363
+#: app/RvxDivi/includes/modules/RvxReviews/RvxReviews.php:651
+#: app/RvxDivi/includes/modules/RvxTabs/RvxTabs.php:652
+msgid "Rating Inactive Star Color"
+msgstr ""
+
+#: app/Elementor/Elements/Data_Tabs.php:1376
+#: app/Elementor/Elements/Review_Widget.php:1375
+#: app/RvxDivi/includes/modules/RvxReviews/RvxReviews.php:662
+#: app/RvxDivi/includes/modules/RvxTabs/RvxTabs.php:663
+msgid "Multi Criteria Active Star Color"
+msgstr ""
+
+#: app/Elementor/Elements/Data_Tabs.php:1387
+#: app/Elementor/Elements/Review_Widget.php:1386
+#: app/RvxDivi/includes/modules/RvxReviews/RvxReviews.php:673
+#: app/RvxDivi/includes/modules/RvxTabs/RvxTabs.php:674
+msgid "Multi Criteria Inactive Star Color"
+msgstr ""
+
+#: app/Elementor/Elements/Data_Tabs.php:1398
+#: app/Elementor/Elements/Review_Widget.php:1397
+#: app/RvxDivi/includes/modules/RvxReviews/RvxReviews.php:684
+#: app/RvxDivi/includes/modules/RvxTabs/RvxTabs.php:685
+msgid "Review Form Label Color"
+msgstr ""
+
+#: app/Elementor/Elements/Data_Tabs.php:1428
+#: app/Elementor/Elements/Review_Widget.php:1427
+#: app/RvxDivi/includes/modules/RvxReviews/RvxReviews.php:695
+#: app/RvxDivi/includes/modules/RvxTabs/RvxTabs.php:696
+msgid "Review Form Input Placeholder Color"
+msgstr ""
+
+#: app/Elementor/Elements/Data_Tabs.php:1441
+#: app/Elementor/Elements/Review_Widget.php:1440
+#: app/RvxDivi/includes/modules/RvxReviews/RvxReviews.php:706
+#: app/RvxDivi/includes/modules/RvxTabs/RvxTabs.php:707
+msgid "Review Form Input Background Color"
+msgstr ""
+
+#: app/Elementor/Elements/Data_Tabs.php:1455
+#: app/Elementor/Elements/Review_Widget.php:1455
+#: app/RvxDivi/includes/modules/RvxReviews/RvxReviews.php:717
+#: app/RvxDivi/includes/modules/RvxTabs/RvxTabs.php:718
+msgid "Review Attachment Icon Color"
+msgstr ""
+
+#: app/Elementor/Elements/Data_Tabs.php:1467
+#: app/Elementor/Elements/Review_Widget.php:1467
+#: app/RvxDivi/includes/modules/RvxReviews/RvxReviews.php:728
+#: app/RvxDivi/includes/modules/RvxTabs/RvxTabs.php:729
+msgid "Review Attachment Text Color"
+msgstr ""
+
+#: app/Elementor/Elements/Data_Tabs.php:1479
+#: app/Elementor/Elements/Review_Widget.php:1479
+msgid "Review Attachment Background Color"
+msgstr ""
+
+#: app/Elementor/Elements/Data_Tabs.php:1517
+#: app/Elementor/Elements/Review_Widget.php:1517
+msgid "Submit Button Hover Background Color"
+msgstr ""
+
+#: app/Elementor/Elements/Data_Tabs.php:1548
+#: app/Elementor/Elements/Review_Widget.php:1549
+msgid "Font size"
+msgstr ""
+
+#: app/Elementor/Elements/Data_Tabs.php:1686
+#: app/Elementor/Elements/Review_Widget.php:1687
+msgid ""
+"This widget only works for the product page. In order to achieve, follow the "
+"steps: this  Dashboard >  Template  > Theme Builder > Add New > Choose "
+"Template Type 'Single Product' > Create Template"
+msgstr ""
+
+#: app/Elementor/Elements/Review_Widget.php:39
+msgid "ReviewX Woo Review"
+msgstr ""
+
+#: app/Elementor/Elements/Review_Widget.php:1238
+msgid "Upload Photo / video (Placeholder)"
+msgstr ""
+
+#: app/Elementor/Traits/Addons.php:25
+msgid "ReviewX Addons"
+msgstr ""
+
+#: app/Handlers/Customize/WidgetCustomizeOptionsHandler.php:43
+msgid "Customize ReviewX Settings"
+msgstr ""
+
+#: app/Handlers/Customize/WidgetCustomizeOptionsHandler.php:58
+msgid "Reviews Overview"
+msgstr ""
+
+#: app/Handlers/Customize/WidgetCustomizeOptionsHandler.php:65
+msgid "Filter Buttons"
+msgstr ""
+
+#: app/Handlers/Customize/WidgetCustomizeOptionsHandler.php:72
+msgid "Review Items"
+msgstr ""
+
+#: app/Handlers/Customize/WidgetCustomizeOptionsHandler.php:112
+msgid "Rating out of: [Text Color]"
+msgstr ""
+
+#: app/Handlers/Customize/WidgetCustomizeOptionsHandler.php:124
+msgid "Rating out of: [Font Size]"
+msgstr ""
+
+#: app/Handlers/Customize/WidgetCustomizeOptionsHandler.php:142
+msgid "Rating out of Total: [Text Color]"
+msgstr ""
+
+#: app/Handlers/Customize/WidgetCustomizeOptionsHandler.php:153
+msgid "Rating out of Total: [Font Size]"
+msgstr ""
+
+#: app/Handlers/Customize/WidgetCustomizeOptionsHandler.php:171
+msgid "Rating Badge: [Background Color]"
+msgstr ""
+
+#: app/Handlers/Customize/WidgetCustomizeOptionsHandler.php:182
+msgid "Rating Badge: [Text Color]"
+msgstr ""
+
+#: app/Handlers/Customize/WidgetCustomizeOptionsHandler.php:194
+msgid "Total Reviews Count: [Text Color]"
+msgstr ""
+
+#: app/Handlers/Customize/WidgetCustomizeOptionsHandler.php:205
+msgid "Total Reviews Count: [Font Size]"
+msgstr ""
+
+#: app/Handlers/Customize/WidgetCustomizeOptionsHandler.php:224
+msgid "Rating Overview Chart: [Text Color]"
+msgstr ""
+
+#: app/Handlers/Customize/WidgetCustomizeOptionsHandler.php:235
+msgid "Rating Overview Chart: [Font Size]"
+msgstr ""
+
+#: app/Handlers/Customize/WidgetCustomizeOptionsHandler.php:254
+msgid "Product Recommendation: [Background Color]"
+msgstr ""
+
+#: app/Handlers/Customize/WidgetCustomizeOptionsHandler.php:265
+msgid "Product Recommendation: [Border Color]"
+msgstr ""
+
+#: app/Handlers/Customize/WidgetCustomizeOptionsHandler.php:276
+msgid "Product Recommendation: [Border Radius]"
+msgstr ""
+
+#: app/Handlers/Customize/WidgetCustomizeOptionsHandler.php:293
+msgid "Product Recommendation Text: [Text Color]"
+msgstr ""
+
+#: app/Handlers/Customize/WidgetCustomizeOptionsHandler.php:304
+msgid "Product Recommendation Text: [Font Size]"
+msgstr ""
+
+#: app/Handlers/Customize/WidgetCustomizeOptionsHandler.php:323
+msgid "Review Criteria Text: [Text Color]"
+msgstr ""
+
+#: app/Handlers/Customize/WidgetCustomizeOptionsHandler.php:334
+msgid "Review Criteria Text: [Font Size]"
+msgstr ""
+
+#: app/Handlers/Customize/WidgetCustomizeOptionsHandler.php:358
+msgid "Filter Button: [Text Color]"
+msgstr ""
+
+#: app/Handlers/Customize/WidgetCustomizeOptionsHandler.php:370
+msgid "Filter Button: [Background Color]"
+msgstr ""
+
+#: app/Handlers/Customize/WidgetCustomizeOptionsHandler.php:382
+msgid "Filter Button: [Border Color]"
+msgstr ""
+
+#: app/Handlers/Customize/WidgetCustomizeOptionsHandler.php:394
+msgid "Filter Button: [Border Radius]"
+msgstr ""
+
+#: app/Handlers/Customize/WidgetCustomizeOptionsHandler.php:412
+msgid "Filter by: [Text Color]"
+msgstr ""
+
+#: app/Handlers/Customize/WidgetCustomizeOptionsHandler.php:424
+msgid "Filter by: [Font Size]"
+msgstr ""
+
+#: app/Handlers/Customize/WidgetCustomizeOptionsHandler.php:442
+msgid "Filter Dropdown Menu: [Text Color]"
+msgstr ""
+
+#: app/Handlers/Customize/WidgetCustomizeOptionsHandler.php:453
+msgid "Filter Dropdown Menu: [Background Color]"
+msgstr ""
+
+#: app/Handlers/Customize/WidgetCustomizeOptionsHandler.php:464
+msgid "Filter Dropdown Menu: [Border Color]"
+msgstr ""
+
+#: app/Handlers/Customize/WidgetCustomizeOptionsHandler.php:475
+msgid "Filter Dropdown Menu: [Border Radius]"
+msgstr ""
+
+#: app/Handlers/Customize/WidgetCustomizeOptionsHandler.php:492
+msgid "Filter Dropdown Menu: [Font Size]"
+msgstr ""
+
+#: app/Handlers/Customize/WidgetCustomizeOptionsHandler.php:510
+msgid "Reset filters button: [Text Color]"
+msgstr ""
+
+#: app/Handlers/Customize/WidgetCustomizeOptionsHandler.php:522
+msgid "Reset filters button: [Background Color]]"
+msgstr ""
+
+#: app/Handlers/Customize/WidgetCustomizeOptionsHandler.php:534
+msgid "Reset filters button: [Border Color]"
+msgstr ""
+
+#: app/Handlers/Customize/WidgetCustomizeOptionsHandler.php:546
+msgid "Reset filters button: [Border Radius]"
+msgstr ""
+
+#: app/Handlers/Customize/WidgetCustomizeOptionsHandler.php:564
+msgid "Apply filters button: [Text Color]"
+msgstr ""
+
+#: app/Handlers/Customize/WidgetCustomizeOptionsHandler.php:576
+msgid "Apply filters button: [Background Color]]"
+msgstr ""
+
+#: app/Handlers/Customize/WidgetCustomizeOptionsHandler.php:588
+msgid "Apply filters button: [Border Color]"
+msgstr ""
+
+#: app/Handlers/Customize/WidgetCustomizeOptionsHandler.php:600
+msgid "Apply filters button: [Border Radius]"
+msgstr ""
+
+#: app/Handlers/Customize/WidgetCustomizeOptionsHandler.php:619
+msgid "Sort Button: [Text Color]"
+msgstr ""
+
+#: app/Handlers/Customize/WidgetCustomizeOptionsHandler.php:631
+msgid "Sort Button: [Background Color]"
+msgstr ""
+
+#: app/Handlers/Customize/WidgetCustomizeOptionsHandler.php:642
+msgid "Sort Button: [Border Color]"
+msgstr ""
+
+#: app/Handlers/Customize/WidgetCustomizeOptionsHandler.php:654
+msgid "Sort Button: [Border Radius]"
+msgstr ""
+
+#: app/Handlers/Customize/WidgetCustomizeOptionsHandler.php:673
+msgid "Sort Dropdown Menu: [Text Color]"
+msgstr ""
+
+#: app/Handlers/Customize/WidgetCustomizeOptionsHandler.php:684
+msgid "Sort Dropdown Menu: [Background Color]"
+msgstr ""
+
+#: app/Handlers/Customize/WidgetCustomizeOptionsHandler.php:695
+msgid "Sort Dropdown Menu: [Border Color]"
+msgstr ""
+
+#: app/Handlers/Customize/WidgetCustomizeOptionsHandler.php:706
+msgid "Sort Dropdown Menu: [Border Radius]"
+msgstr ""
+
+#: app/Handlers/Customize/WidgetCustomizeOptionsHandler.php:725
+msgid "Sort Dropdown Menu: [Font Size]"
+msgstr ""
+
+#: app/Handlers/Customize/WidgetCustomizeOptionsHandler.php:769
+msgid "Write a Review Button: [Border Color]"
+msgstr ""
+
+#: app/Handlers/Customize/WidgetCustomizeOptionsHandler.php:781
+msgid "Write a Review Button: [Border Radius]"
+msgstr ""
+
+#: app/Handlers/Customize/WidgetCustomizeOptionsHandler.php:804
+msgid "Review Items: Card - [Background Color]"
+msgstr ""
+
+#: app/Handlers/Customize/WidgetCustomizeOptionsHandler.php:816
+msgid "Review Card: [Border Color]"
+msgstr ""
+
+#: app/Handlers/Customize/WidgetCustomizeOptionsHandler.php:827
+msgid "Review Card: [Padding]"
+msgstr ""
+
+#: app/Handlers/Customize/WidgetCustomizeOptionsHandler.php:844
+msgid "Review Card: [Border Radius]"
+msgstr ""
+
+#: app/Handlers/Customize/WidgetCustomizeOptionsHandler.php:862
+msgid "Reviewer Name: [Text Color]"
+msgstr ""
+
+#: app/Handlers/Customize/WidgetCustomizeOptionsHandler.php:873
+msgid "Reviewer Name: [Text Size]"
+msgstr ""
+
+#: app/Handlers/Customize/WidgetCustomizeOptionsHandler.php:891
+msgid "Review Title: [Text Color]"
+msgstr ""
+
+#: app/Handlers/Customize/WidgetCustomizeOptionsHandler.php:902
+msgid "Review Title: [Text Size]"
+msgstr ""
+
+#: app/Handlers/Customize/WidgetCustomizeOptionsHandler.php:920
+msgid "Review Date: [Text Color]"
+msgstr ""
+
+#: app/Handlers/Customize/WidgetCustomizeOptionsHandler.php:931
+msgid "Review Date: [Text Size]"
+msgstr ""
+
+#: app/Handlers/Customize/WidgetCustomizeOptionsHandler.php:949
+msgid "Review Description: [Text Color]"
+msgstr ""
+
+#: app/Handlers/Customize/WidgetCustomizeOptionsHandler.php:960
+msgid "Review Description: [Text Size]"
+msgstr ""
+
+#: app/Handlers/Customize/WidgetCustomizeOptionsHandler.php:983
+msgid "Form: Background Color"
+msgstr ""
+
+#: app/Handlers/Customize/WidgetCustomizeOptionsHandler.php:995
+msgid "Form: [Border Color]"
+msgstr ""
+
+#: app/Handlers/Customize/WidgetCustomizeOptionsHandler.php:1007
+msgid "Form: Border Radius"
+msgstr ""
+
+#: app/Handlers/Customize/WidgetCustomizeOptionsHandler.php:1025
+msgid "Form: Title [Text Color]"
+msgstr ""
+
+#: app/Handlers/Customize/WidgetCustomizeOptionsHandler.php:1036
+msgid "Form: Title [Text Size]"
+msgstr ""
+
+#: app/Handlers/Customize/WidgetCustomizeOptionsHandler.php:1054
+msgid "Form: Product Name [Text Color]"
+msgstr ""
+
+#: app/Handlers/Customize/WidgetCustomizeOptionsHandler.php:1065
+msgid "Form: Product Name [Text Size]"
+msgstr ""
+
+#: app/Handlers/Customize/WidgetCustomizeOptionsHandler.php:1083
+msgid "Form: Criteria Title [Text Color]"
+msgstr ""
+
+#: app/Handlers/Customize/WidgetCustomizeOptionsHandler.php:1094
+msgid "Form: Criteria Title [Text Size]"
+msgstr ""
+
+#: app/Handlers/Customize/WidgetCustomizeOptionsHandler.php:1112
+msgid "Form: Review Title [Text Color]"
+msgstr ""
+
+#: app/Handlers/Customize/WidgetCustomizeOptionsHandler.php:1123
+msgid "Form: Review Title [Text Size]"
+msgstr ""
+
+#: app/Handlers/Customize/WidgetCustomizeOptionsHandler.php:1141
+msgid "Form: Description [Text Color]"
+msgstr ""
+
+#: app/Handlers/Customize/WidgetCustomizeOptionsHandler.php:1152
+msgid "Form: Description [Text Size]"
+msgstr ""
+
+#: app/Handlers/Customize/WidgetCustomizeOptionsHandler.php:1170
+msgid "Form: Full Name [Text Color]"
+msgstr ""
+
+#: app/Handlers/Customize/WidgetCustomizeOptionsHandler.php:1181
+msgid "Form: Full Name [Text Size]"
+msgstr ""
+
+#: app/Handlers/Customize/WidgetCustomizeOptionsHandler.php:1199
+msgid "Form: Email Address [Text Color]"
+msgstr ""
+
+#: app/Handlers/Customize/WidgetCustomizeOptionsHandler.php:1210
+msgid "Form: Email Address [Text Size]"
+msgstr ""
+
+#: app/Handlers/Customize/WidgetCustomizeOptionsHandler.php:1228
+msgid "Form: Attachment [Text Color]"
+msgstr ""
+
+#: app/Handlers/Customize/WidgetCustomizeOptionsHandler.php:1239
+msgid "Form: Attachment [Text Size]"
+msgstr ""
+
+#: app/Handlers/Customize/WidgetCustomizeOptionsHandler.php:1257
+msgid "Form: Mark as Anonymous [Text Color]"
+msgstr ""
+
+#: app/Handlers/Customize/WidgetCustomizeOptionsHandler.php:1268
+msgid "Form: Mark as Anonymous [Text Size]"
+msgstr ""
+
+#: app/Handlers/Customize/WidgetCustomizeOptionsHandler.php:1286
+msgid "Form: Recommended? [Text Color]"
+msgstr ""
+
+#: app/Handlers/Customize/WidgetCustomizeOptionsHandler.php:1297
+msgid "Form: Recommended? [Text Size]"
+msgstr ""
+
+#: app/Handlers/Customize/WidgetCustomizeOptionsHandler.php:1342
+msgid "Submit Review Button: [Border Color]"
+msgstr ""
+
+#: app/Handlers/Customize/WidgetCustomizeOptionsHandler.php:1354
+msgid "Submit Review Button: [Border Radius]"
+msgstr ""
+
+#: app/Handlers/WcTemplates/WcSendEmailPermissionHandler.php:14
+msgid "I want to subscribe email"
+msgstr ""
+
+#: app/Handlers/WoocommerceSettingsSaveHandler.php:26
+msgid "An error occurred: "
+msgstr ""
+
+#: app/Oxygen/elements/rvx-criteria-graph.class.php:102
+msgid "ReviewX Criteria Graph"
+msgstr ""
+
+#: app/Oxygen/elements/rvx-criteria-graph.class.php:109
+#: app/Oxygen/elements/rvx-review-list.class.php:112
+#: app/Oxygen/elements/rvx-stats.class.php:146
+#: app/Oxygen/elements/rvx-summary.class.php:111
+msgid "Product Id"
+msgstr ""
+
+#: app/Oxygen/elements/rvx-product-tabs.php:61
+msgid "Review Section Title"
+msgstr ""
+
+#: app/Oxygen/elements/rvx-product-tabs.php:67
+msgid "Review Section Title Color"
+msgstr ""
+
+#: app/Oxygen/elements/rvx-product-tabs.php:74
+msgid "Review Section Titles Font Size"
+msgstr ""
+
+#: app/Oxygen/elements/rvx-product-tabs.php:91
+msgid "Tabs Layout"
+msgstr ""
+
+#: app/Oxygen/elements/rvx-product-tabs.php:136
+msgid "Tab Background Color"
+msgstr ""
+
+#: app/Oxygen/elements/rvx-product-tabs.php:142
+msgid "Tab Border Color"
+msgstr ""
+
+#: app/Oxygen/elements/rvx-product-tabs.php:161
+msgid "Tab Spacing"
+msgstr ""
+
+#: app/Oxygen/elements/rvx-product-tabs.php:182
+msgid "Active Tab"
+msgstr ""
+
+#: app/Oxygen/elements/rvx-product-tabs.php:187
+msgid "Active Tab Text Color"
+msgstr ""
+
+#: app/Oxygen/elements/rvx-product-tabs.php:192
+msgid "Active Tab Background Color"
+msgstr ""
+
+#: app/Oxygen/elements/rvx-product-tabs.php:200
+msgid "Show Active Tab Arrow"
+msgstr ""
+
+#: app/Oxygen/elements/rvx-product-tabs.php:222
+msgid "Active Tab Arrow Color"
+msgstr ""
+
+#: app/Oxygen/elements/rvx-product-tabs.php:231
+msgid "Hovered Tab"
+msgstr ""
+
+#: app/Oxygen/elements/rvx-product-tabs.php:236
+msgid "Hover Tab Text Color"
+msgstr ""
+
+#: app/Oxygen/elements/rvx-product-tabs.php:241
+msgid "Hover Tab Background Color"
+msgstr ""
+
+#: app/Oxygen/elements/rvx-product-tabs.php:433
+msgid "Button Border"
+msgstr ""
+
+#: app/Oxygen/elements/rvx-product-tabs.php:466
+#: app/Oxygen/elements/rvx-woo-reviews.php:126
+msgid "Review Fonts"
+msgstr ""
+
+#: app/Oxygen/elements/rvx-product-tabs.php:478
+#: app/Oxygen/elements/rvx-woo-reviews.php:138
+msgid "Title lable Typography"
+msgstr ""
+
+#: app/Oxygen/elements/rvx-review-list.class.php:105
+msgid "ReviewX Review List"
+msgstr ""
+
+#: app/Oxygen/elements/rvx-stats.class.php:139
+msgid "ReviewX Stats"
+msgstr ""
+
+#: app/Oxygen/elements/rvx-summary.class.php:104
+msgid "ReviewX Summary"
+msgstr ""
+
+#: app/Oxygen/elements/rvx-woo-reviews.php:163
+msgid "Email"
+msgstr ""
+
+#: app/Rest/Controllers/ReviewController.php:340
+#: app/Rest/Controllers/ReviewController.php:349
+msgid "Review Highlight"
+msgstr ""
+
+#: app/RvxDivi/includes/loader.php:24
+msgid ""
+"Preview Unavailable. After saving the settings, please check the frontend to "
+"see the changes."
+msgstr ""
+
+#: app/RvxDivi/includes/modules/RvxReviews/RvxReviews.php:23
+#: app/RvxDivi/includes/modules/RvxReviews/RvxReviews.php:24
+msgid "ReviewX Woo Reviews"
+msgstr ""
+
+#: app/RvxDivi/includes/modules/RvxReviews/RvxReviews.php:60
+#: app/RvxDivi/includes/modules/RvxTabs/RvxTabs.php:61
+msgid "Divi WooCommerce Modules"
+msgstr ""
+
+#: app/RvxDivi/includes/modules/RvxReviews/RvxReviews.php:136
+#: app/RvxDivi/includes/modules/RvxTabs/RvxTabs.php:137 bootstrap/menu.php:16
+#: woocommerce/myaccount/orders.php:27
+msgid "Reviews"
+msgstr ""
+
+#: app/RvxDivi/includes/modules/RvxReviews/RvxReviews.php:264
+#: app/RvxDivi/includes/modules/RvxTabs/RvxTabs.php:265
+msgid "Average Rating Star Inactive Color"
+msgstr ""
+
+#: app/RvxDivi/includes/modules/RvxReviews/RvxReviews.php:366
+#: app/RvxDivi/includes/modules/RvxTabs/RvxTabs.php:367
+msgid "Avatar Size Height"
+msgstr ""
+
+#: app/RvxDivi/includes/modules/RvxReviews/RvxReviews.php:382
+#: app/RvxDivi/includes/modules/RvxTabs/RvxTabs.php:383
+msgid "Avatar Size width"
+msgstr ""
+
+#: app/RvxDivi/includes/modules/RvxReviews/RvxReviews.php:398
+#: app/RvxDivi/includes/modules/RvxTabs/RvxTabs.php:399
+msgid "Card Font Size"
+msgstr ""
+
+#: app/RvxDivi/includes/modules/RvxReviews/RvxReviews.php:413
+#: app/RvxDivi/includes/modules/RvxTabs/RvxTabs.php:414
+msgid "Card Background Color"
+msgstr ""
+
+#: app/RvxDivi/includes/modules/RvxReviews/RvxReviews.php:534
+#: app/RvxDivi/includes/modules/RvxTabs/RvxTabs.php:535
+msgid "Avatar Fallback Color"
+msgstr ""
+
+#: app/RvxDivi/includes/modules/RvxReviews/RvxReviews.php:559
+msgid "Product Height"
+msgstr ""
+
+#: app/RvxDivi/includes/modules/RvxReviews/RvxReviews.php:575
+msgid "Product Width"
+msgstr ""
+
+#: app/RvxDivi/includes/modules/RvxReviews/RvxReviews.php:591
+#: app/RvxDivi/includes/modules/RvxTabs/RvxTabs.php:592
+msgid "Font Size"
+msgstr ""
+
+#: app/RvxDivi/includes/modules/RvxReviews/RvxReviews.php:796
+#: app/RvxDivi/includes/modules/RvxTabs/RvxTabs.php:798
+msgid "Filter Button Background Color"
+msgstr ""
+
+#: app/RvxDivi/includes/modules/RvxTabs/DiviDesignTrait.php:26
+msgid "Fonts"
+msgstr ""
+
+#: app/RvxDivi/includes/modules/RvxTabs/DiviDesignTrait.php:79
+msgid "Section Title Text Color"
+msgstr ""
+
+#: app/RvxDivi/includes/modules/RvxTabs/RvxTabs.php:24
+#: app/RvxDivi/includes/modules/RvxTabs/RvxTabs.php:25
+msgid "ReviewX Woo Tabs"
+msgstr ""
+
+#: app/RvxDivi/includes/modules/RvxTabs/RvxTabs.php:560
+msgid "Product Size Height"
+msgstr ""
+
+#: app/RvxDivi/includes/modules/RvxTabs/RvxTabs.php:576
+msgid "Product  Width"
+msgstr ""
+
+#: app/Services/GoogleReviewService.php:59
+#: app/Services/GoogleReviewService.php:66
+msgid "Recaptch Data Save Successfully"
+msgstr ""
+
+#: app/Services/GoogleReviewService.php:74
+msgid "Review Rich Schema Disable"
+msgstr ""
+
+#: app/Services/ReviewService.php:245
+msgid "Review Delete Fails"
+msgstr ""
+
+#: app/Services/ReviewService.php:311
+msgid "Verify Fail"
+msgstr ""
+
+#: app/Services/ReviewService.php:348
+msgid "Verify"
+msgstr ""
+
+#: app/Services/ReviewService.php:350
+msgid "Fail"
+msgstr ""
+
+#: app/Services/ReviewService.php:366
+msgid "Replies Fail"
+msgstr ""
+
+#: app/Services/ReviewService.php:420
+msgid "Update Fail"
+msgstr ""
+
+#: app/Services/ReviewService.php:443
+msgid "Delete Fail"
+msgstr ""
+
+#: bootstrap/menu.php:20
+msgid "Discount for Review"
+msgstr ""
+
+#: bootstrap/menu.php:22
+msgid "Google Review"
+msgstr ""
+
+#: bootstrap/menu.php:24
+msgid "Import / Export"
+msgstr ""
+
+#: bootstrap/menu.php:26
+msgid "Custom Post Reviews"
+msgstr ""
+
+#: bootstrap/menu.php:30
+msgid "Rollback to v1"
+msgstr ""
+
+#: woocommerce/myaccount/orders.php:24
+msgid "Image"
+msgstr ""
+
+#: woocommerce/myaccount/orders.php:88
+msgid "Product Image"
+msgstr ""
+
+#: woocommerce/myaccount/orders.php:92
+msgid "Details"
+msgstr ""
+
+#: woocommerce/myaccount/orders.php:110
+msgid "Add Review"
+msgstr ""
+
+#: resources/views/storefront/widget/Components/EmptyPlaceholder.twig:3
+msgid "There are no reviews yet."
+msgstr ""
+
+#: resources/views/storefront/widget/Components/EmptyPlaceholder.twig:5
+msgid "Be the first to review "
+msgstr ""
+
+#: resources/views/storefront/widget/Components/RecommendedBanner.twig:15
+msgid "Persons recommended this product"
+msgstr ""
+
+#: resources/views/storefront/widget/Components/UnVerifyUserPlaceholder.twig:3
+msgid ""
+"Only logged in customers who have purchased this product may leave a review"
+msgstr ""
+
+#: resources/views/storefront/widget/Features/Aggregations/index.twig:25
+msgid "grade"
+msgstr ""
+
+#: resources/views/storefront/widget/Features/ReviewForm/index.twig:220
+msgid "Yes"
+msgstr ""
+
+#: resources/views/storefront/widget/Features/ReviewForm/index.twig:224
+msgid "No"
+msgstr ""
+
+#: resources/views/storefront/widget/Features/ReviewForm/index.twig:258
+msgid "Submit Review"
+msgstr ""
+
+#: resources/views/storefront/widget/Features/ReviewForm/MediaUpload.twig:12
+msgid "backup"
+msgstr ""
+
+#: resources/views/storefront/widget/Features/ReviewForm/MediaUpload.twig:20
+msgid "Upload Photo"
+msgstr ""
+
+#: resources/views/storefront/widget/Features/ReviewForm/MediaUpload.twig:39
+msgid "delete"
+msgstr ""
+
+#: resources/views/storefront/widget/Features/Reviews/Filter/ReviewFilter.twig:9
+msgid "filter_alt"
+msgstr ""
+
+#: resources/views/storefront/widget/Features/Reviews/Filter/ReviewFilter.twig:11
+msgid "10"
+msgstr ""
+
+#: resources/views/storefront/widget/Features/Reviews/Filter/ReviewFilter.twig:26
+msgid "star"
+msgstr ""
+
+#: resources/views/storefront/widget/Features/Reviews/Filter/ReviewFilter.twig:41
+msgid "attach_file"
+msgstr ""
+
+#: resources/views/storefront/widget/Features/Reviews/Filter/ReviewFilter.twig:59
+msgid "Apply"
+msgstr ""
+
+#: resources/views/storefront/widget/Features/Reviews/Filter/ReviewFilter.twig:68
+msgid "swap_vert"
+msgstr ""
+
+#: resources/views/storefront/widget/Features/Reviews/Filter/ReviewFilter.twig:68
+msgid "Sort By"
+msgstr ""
+
+#: resources/views/storefront/widget/Features/Reviews/Modals/ReviewDetailModal.twig:31
+msgid "gallery_thumbnail"
+msgstr ""
+
+#: resources/views/storefront/widget/Features/Reviews/Modals/ReviewDetailModal.twig:72
+#: resources/views/storefront/widget/Features/Reviews/ReviewerInfo.twig:35
+msgid "Anonymous"
+msgstr ""
+
+#: resources/views/storefront/widget/Features/Reviews/Modals/ReviewDetailModal.twig:87
+#: resources/views/storefront/widget/Features/Reviews/ReviewerInfo.twig:41
+msgid "Shopper"
+msgstr ""
+
+#: resources/views/storefront/widget/Features/Reviews/Modals/ReviewDetailModal.twig:93
+#: resources/views/storefront/widget/Features/Reviews/ReviewerInfo.twig:47
+msgid "check_circle"
+msgstr ""
+
+#: resources/views/storefront/widget/Features/Reviews/Modals/ReviewDetailModal.twig:248
+#: resources/views/storefront/widget/Features/Reviews/OwnerReply.twig:4
+msgid "reply"
+msgstr ""
+
+#: resources/views/storefront/widget/Features/Reviews/Modals/ReviewDetailModal.twig:251
+#: resources/views/storefront/widget/Features/Reviews/OwnerReply.twig:7
+msgid "Shop owner"
+msgstr ""
+
+#: resources/views/storefront/widget/Features/Reviews/Modals/ReviewDetailModal.twig:252
+#: resources/views/storefront/widget/Features/Reviews/OwnerReply.twig:8
+msgid "replied"
+msgstr ""
+
+#: resources/views/storefront/widget/Features/Reviews/Modals/ReviewDetailModal.twig:321
+#: resources/views/storefront/widget/Features/Reviews/ReviewHelpInfo.twig:85
+msgid "X (Twitter)"
+msgstr ""
+
+#: resources/views/storefront/widget/Features/Reviews/Modals/ReviewDetailModal.twig:331
+#: resources/views/storefront/widget/Features/Reviews/ReviewHelpInfo.twig:95
+msgid "LinkedIn"
+msgstr ""
+
+#: resources/views/storefront/widget/Features/Reviews/Modals/ReviewDetailModal.twig:339
+#: resources/views/storefront/widget/Features/Reviews/ReviewHelpInfo.twig:103
+msgid "Reddit"
+msgstr ""
+
+#: resources/views/storefront/widget/Features/Reviews/Modals/ReviewDetailModal.twig:346
+#: resources/views/storefront/widget/Features/Reviews/ReviewHelpInfo.twig:110
+msgid "Copy Link"
+msgstr ""
+
+#: resources/views/storefront/widget/Features/Reviews/Modals/ReviewDetailModal.twig:357
+msgid "close"
+msgstr ""
+
+#: resources/views/storefront/widget/Features/Reviews/Modals/ReviewSuccessModal.twig:40
+msgid "Thanks for your review!"
+msgstr ""
+
+#: resources/views/storefront/widget/Features/Reviews/Modals/ReviewSuccessModal.twig:42
+msgid "Your feedback helps us improve our service."
+msgstr ""
+
+#: resources/views/storefront/widget/Features/Reviews/ReviewsLayout.twig:26
+msgid "Load More Reviews"
+msgstr ""
+
+msgid "4 Star & above"
+msgstr ""
+
+msgid "3 Star & above"
+msgstr ""
+
+msgid "2 Star & above"
+msgstr ""
+
+msgid "1 Star & above"
+msgstr ""
+
+msgid "Sort By"
+msgstr ""
