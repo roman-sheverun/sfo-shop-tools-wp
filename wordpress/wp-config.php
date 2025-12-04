@@ -128,8 +128,8 @@ if ($configExtra = getenv_docker('WORDPRESS_CONFIG_EXTRA', '')) {
 }
 
 
-define( 'WP_HOME','https://savefryoil.com/shop-tools/' );
-define( 'WP_SITEURL', 'https://savefryoil.com/shop-tools/' );
+define( 'WP_HOME','http://localhost' );
+define( 'WP_SITEURL', 'http://localhost' );
 define( 'DUPLICATOR_AUTH_KEY', 'L5[N*0aDUqQ!0t{7+yY#xu5wul$5rTjB$L@HZauS#F&&6U{nM13)z/[]9`Y,&!vj' );
 /* That's all, stop editing! Happy publishing. */
 
@@ -141,3 +141,8 @@ if ( ! defined( 'ABSPATH' ) ) {
 /** Sets up WordPress vars and included files. */
 require_once ABSPATH . 'wp-settings.php';
 
+add_filter( 'woocommerce_rest_check_permissions', '__return_true' );
+
+// var_dump(WP_DEBUG);
+// var_dump(WP_DEBUG_LOG);
+// var_dump(WP_DEBUG_DISPLAY);
